@@ -7,4 +7,4 @@ A compilation of the best multi-agent papers
 ----
 
 ## Papers
-- [ K-Level Reasoning with Large Language Models ] [ PDF LINK ](https://browse.arxiv.org/pdf/2402.01521.pdf) 
+- [ K-Level Reasoning with Large Language Models ] [ [ PDF LINK ](https://browse.arxiv.org/pdf/2402.01521.pdf) ] 
