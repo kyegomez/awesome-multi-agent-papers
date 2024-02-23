@@ -16,4 +16,3 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Automated Unit Test Improvement using Large Language Models ] [ [PDF LINK](https://arxiv.org/pdf/2402.09171.pdf) ]
 
 - [ Human-level play in the game of Diplomacy by combining language models with strategic reasoning ] [ [PDF LINK](https://www.science.org/doi/10.1126/science.ade9097)]
-- 
