@@ -18,3 +18,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Human-level play in the game of Diplomacy by combining language models with strategic reasoning ] [ [PDF LINK](https://www.science.org/doi/10.1126/science.ade9097)]
 
 - [ AgentScope: A Flexible yet Robust Multi-Agent Platform ] [ [PDF](https://arxiv.org/pdf/2402.14034.pdf)] ]
+
+- [ Experiential Co-Learning of Software-Developing Agents ] [ [PDF LINK](https://arxiv.org/abs/2312.17025) ]
