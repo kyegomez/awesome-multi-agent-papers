@@ -20,3 +20,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ AgentScope: A Flexible yet Robust Multi-Agent Platform ] [ [PDF](https://arxiv.org/pdf/2402.14034.pdf)] ]
 
 - [ Experiential Co-Learning of Software-Developing Agents ] [ [PDF LINK](https://arxiv.org/abs/2312.17025) ]
+
+- [ Communicative Agents for Software Development] [ [PDF LINK](https://arxiv.org/pdf/2307.07924.pdf) ]
