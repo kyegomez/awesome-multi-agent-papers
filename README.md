@@ -1,4 +1,4 @@
-# multi-agent-papers
+# awesome-multi-agent-papers
 A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission is to democratize multi-agent systems to automate the world.
 
 ## Format
