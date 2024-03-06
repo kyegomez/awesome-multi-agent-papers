@@ -26,3 +26,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Match Human Crowd Accuracy ] [ [PDF LINK](https://arxiv.org/abs/2402.19379) ]
 
 - [ Generative Agents: Interactive Simulacra of Human Behavior ] [ [PDF LINK](https://arxiv.org/abs/2304.03442)]
+
+- [ Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems ] [ [PDF LINK](https://arxiv.org/pdf/2403.02419.pdf) ]
