@@ -28,3 +28,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Generative Agents: Interactive Simulacra of Human Behavior ] [ [PDF LINK](https://arxiv.org/abs/2304.03442)]
 
 - [ Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems ] [ [PDF LINK](https://arxiv.org/pdf/2403.02419.pdf) ]
+
+- [ Learning to Decode Collaboratively with Multiple Language Models ] [ [PDF LINK](https://arxiv.org/abs/2403.03870)]
