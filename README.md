@@ -32,3 +32,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Learning to Decode Collaboratively with Multiple Language Models ] [ [PDF LINK](https://arxiv.org/abs/2403.03870)]
 
 - [ SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents ][ [PDF LINK](https://arxiv.org/pdf/2403.08715.pdf) ]
+
+- [ Mora: Enabling Generalist Video Generation via A Multi-Agent Framework ] [PDF LINK](https://huggingface.co/papers/2403.13248) ]
