@@ -36,3 +36,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Mora: Enabling Generalist Video Generation via A Multi-Agent Framework ] [PDF LINK](https://huggingface.co/papers/2403.13248) ]
 
 - [ LLM Agent Operating System ] [ [PDF LINK](https://arxiv.org/pdf/2403.16971.pdf) ]
+
+- [ MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution ] [ [PDF LINK](https://arxiv.org/abs/2403.17927) ]
