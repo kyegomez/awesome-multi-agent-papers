@@ -38,3 +38,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ LLM Agent Operating System ] [ [PDF LINK](https://arxiv.org/pdf/2403.16971.pdf) ]
 
 - [ MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution ] [ [PDF LINK](https://arxiv.org/abs/2403.17927) ]
+
+- [ AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models ] [ [PDF LINK](https://huggingface.co/papers/2403.15157) ]
