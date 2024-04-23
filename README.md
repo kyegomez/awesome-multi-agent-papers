@@ -42,3 +42,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models ] [ [PDF LINK](https://huggingface.co/papers/2403.15157) ]
 
 - [ Scaling Instructable Agents Across Many Simulated Worlds ] [ [PDF LINK](https://huggingface.co/papers/2404.10179) ]
+
+- [ Evolutionary Optimization of Model Merging Recipes ][ [PDF LINK][Evolutionary Optimization of Model Merging Recipes ]
