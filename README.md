@@ -44,3 +44,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Scaling Instructable Agents Across Many Simulated Worlds ] [ [PDF LINK](https://huggingface.co/papers/2404.10179) ]
 
 - [ Evolutionary Optimization of Model Merging Recipes ][ [PDF LINK](https://arxiv.org/html/2403.13187v1) ]
+
+- [ Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models ] [PDF LINK](https://huggingface.co/papers/2404.18796)]
