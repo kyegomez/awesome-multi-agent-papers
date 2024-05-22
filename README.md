@@ -48,3 +48,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models ] [PDF LINK](https://huggingface.co/papers/2404.18796)]
 
 - [ Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents ] [ [PDF LINK](https://arxiv.org/abs/2405.02957) ]
+
+- [ AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation ] [ [PDF LINK](https://arxiv.org/abs/2308.08155)]
