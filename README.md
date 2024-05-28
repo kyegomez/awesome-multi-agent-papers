@@ -50,3 +50,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents ] [ [PDF LINK](https://arxiv.org/abs/2405.02957) ]
 
 - [ AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation ] [ [PDF LINK](https://arxiv.org/abs/2308.08155)]
+
+- [ CulturePark: Boosting Cross-cultural Understanding in Large Language Models] [[PDF LINK](https://arxiv.org/abs/2405.15145)]
