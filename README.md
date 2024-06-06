@@ -51,6 +51,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [ AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation ] [ [PDF LINK](https://arxiv.org/abs/2308.08155)]
 
+- [ Chain of Agents: Large Language Models Collaborating on Long-Context Tasks] [[PDF LINK ](https://arxiv.org/abs/2406.02818)]
+
 - [ CulturePark: Boosting Cross-cultural Understanding in Large Language Models] [[PDF LINK](https://arxiv.org/abs/2405.15145)]
 
 - [ Constitutional AI: Harmlessness from AI Feedback ] [ [[PDF Link](https://arxiv.org/abs/2212.08073)]
