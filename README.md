@@ -56,3 +56,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ CulturePark: Boosting Cross-cultural Understanding in Large Language Models] [[PDF LINK](https://arxiv.org/abs/2405.15145)]
 
 - [ Constitutional AI: Harmlessness from AI Feedback ] [ [[PDF Link](https://arxiv.org/abs/2212.08073)]
+
+- [ Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration ] [ [PDF LINK](https://huggingface.co/papers/2406.01014)]
