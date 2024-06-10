@@ -2,7 +2,7 @@
 A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission is to democratize multi-agent systems to automate the world economy with agents and usher in a post-scarcity Human civilization.
 
 ## Format
-- [ Paper Name ] [ PDF ] [ PAPER LINK ] [Abstract ]
+- [ Paper Name ] [ PDF ] [ PAPER LINK ]
 
 ----
 
@@ -62,3 +62,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692)
 
 - [ AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)
+
+----
+
+# Todo
+- Create a citations section with citations for every paper!
