@@ -60,3 +60,5 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration ] [ [PDF LINK](https://huggingface.co/papers/2406.01014)]
 
 - [ Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692)
+
+- [ AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)
