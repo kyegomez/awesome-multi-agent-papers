@@ -1,5 +1,5 @@
 # awesome-multi-agent-papers
-A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission is to democratize multi-agent systems to automate the world economy with agents and usher in a post-scarcity Human civilization.
+A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission is to democratize multi-agent systems to automate the world economy with agents and usher in a post-scarcity Human civilization. [Join our community now!](https://discord.com/servers/agora-999382051935506503)
 
 ## Format
 - [ Paper Name ] [ PDF ] [ PAPER LINK ]
@@ -68,3 +68,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 # Todo
 - Create a citations section with citations for every paper!
+
+# Citations
+
+# Community
+Join the multi-agent community now on discord [HERE](https://discord.com/servers/agora-999382051935506503)
