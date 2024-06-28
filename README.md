@@ -64,6 +64,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)
 
 - [ CODER: ISSUE RESOLVING WITH MULTI-AGENT AND TASK GRAPHS] [PDF LINK](https://arxiv.org/pdf/2406.01304)
+
+- [ EVOAGENT: Towards Automatic Multi-Agent: Generation via Evolutionary Algorithms](https://arxiv.org/pdf/2406.14228)
 ----
 
 # Todo
