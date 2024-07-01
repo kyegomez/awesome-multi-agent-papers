@@ -66,6 +66,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ CODER: ISSUE RESOLVING WITH MULTI-AGENT AND TASK GRAPHS] [PDF LINK](https://arxiv.org/pdf/2406.01304)
 
 - [ EVOAGENT: Towards Automatic Multi-Agent: Generation via Evolutionary Algorithms](https://arxiv.org/pdf/2406.14228)
+
+- [ Scaling Synthetic Data Creation with 1,000,000,000 Personas ](https://huggingface.co/papers/2406.20094)
+
 ----
 
 # Todo
