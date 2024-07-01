@@ -69,6 +69,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [ Scaling Synthetic Data Creation with 1,000,000,000 Personas ](https://huggingface.co/papers/2406.20094)
 
+- [(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts](https://arxiv.org/abs/2405.11804)
+
 ----
 
 # Todo
