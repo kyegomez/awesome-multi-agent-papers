@@ -71,6 +71,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts](https://arxiv.org/abs/2405.11804)
 
+- [RouteLLM: An Open-Source Framework for Cost-Effective LLM Routing](https://lmsys.org/blog/2024-07-01-routellm/)
+
 ----
 
 # Todo
