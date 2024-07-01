@@ -20,9 +20,6 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://swarms.world/explorer">Swarms Platform</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://docs.swarms.world">📙 Documentation</a>
-</p>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://github.com/kyegomez/swarms">📙 Framework</a>
 </p>
 
