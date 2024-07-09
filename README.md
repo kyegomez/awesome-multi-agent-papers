@@ -107,6 +107,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [ AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/abs/2407.03502)
 
+- [On scalable oversight with weak LLMs judging strong LLMs](https://arxiv.org/abs/2407.04622)
+
   
 ----
 
