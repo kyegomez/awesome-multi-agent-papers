@@ -109,7 +109,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [On scalable oversight with weak LLMs judging strong LLMs](https://arxiv.org/abs/2407.04622)
 
-  
+- [ Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ](https://arxiv.org/abs/2404.16698)
 ----
 
 # Todo
