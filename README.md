@@ -110,6 +110,12 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [On scalable oversight with weak LLMs judging strong LLMs](https://arxiv.org/abs/2407.04622)
 
 - [ Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ](https://arxiv.org/abs/2404.16698)
+
+- [ Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)
+
+- [ Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ](https://arxiv.org/abs/2404.16698)
+
+- [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061)
 ----
 
 # Todo
