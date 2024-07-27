@@ -116,6 +116,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ](https://arxiv.org/abs/2404.16698)
 
 - [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061)
+
+- [LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)
 ----
 
 # Todo
