@@ -118,6 +118,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061)
 
 - [LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)
+
+- [DIFFUSION AUGMENTED AGENTS: A FRAMEWORK FOR EFFICIENT EXPLORATION AND TRANSFER LEARNING](https://huggingface.co/papers/2407.20798)
 ----
 
 # Todo
