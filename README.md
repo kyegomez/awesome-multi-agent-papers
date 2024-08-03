@@ -123,6 +123,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)
 
 - [DIFFUSION AUGMENTED AGENTS: A FRAMEWORK FOR EFFICIENT EXPLORATION AND TRANSFER LEARNING](https://huggingface.co/papers/2407.20798)
+
+- [From Text to Life: On the Reciprocal Relationship between Artificial Life and Large Language Models](https://arxiv.org/abs/2407.09502)
 ----
 
 # Todo
