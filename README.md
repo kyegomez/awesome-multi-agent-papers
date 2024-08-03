@@ -129,6 +129,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066)
 
 - [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning](https://arxiv.org/abs/2310.03094)
+
+- [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
 ----
 
 # Todo
