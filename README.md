@@ -131,6 +131,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning](https://arxiv.org/abs/2310.03094)
 
 - [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
+
+- [CL] From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future][https://arxiv.org/abs/2408.02479]
 ----
 
 # Todo
