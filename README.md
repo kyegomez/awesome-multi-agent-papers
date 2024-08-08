@@ -133,6 +133,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
 
 - [CL] From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future][https://arxiv.org/abs/2408.02479]
+
+- [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)
 ----
 
 # Todo
@@ -162,5 +164,17 @@ Join the multi-agent community now on discord [HERE](https://discord.com/servers
     eprint={2403.04132},
     archivePrefix={arXiv},
     primaryClass={cs.AI}
+}
+```
+
+```bibtex
+@misc{li2024optimus1hybridmultimodalmemory,
+      title={Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks}, 
+      author={Zaijing Li and Yuquan Xie and Rui Shao and Gongwei Chen and Dongmei Jiang and Liqiang Nie},
+      year={2024},
+      eprint={2408.03615},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2408.03615}, 
 }
 ```
