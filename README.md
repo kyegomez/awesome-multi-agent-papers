@@ -137,6 +137,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)
 
 - [The AI Scientist: The world’s first AI system for automating scientific research and open-ended discovery!](https://arxiv.org/abs/2408.06292)
+
+- [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://www.arxiv.org/abs/2408.03910)
 ----
 
 # Todo
