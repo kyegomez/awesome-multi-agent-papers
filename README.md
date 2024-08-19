@@ -143,6 +143,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Integrating Expertise of Software Engineering Agents](https://huggingface.co/papers/2408.07060)
 
    - Removed the first acouple words because their woke and communist propaganda, only reason I'm adding it is because it beats SOTA
+ 
+- [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435)
 ----
 
 # Todo
