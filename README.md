@@ -149,6 +149,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](https://arxiv.org/pdf/2408.08688)
 
 - [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)
+
+- [Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/abs/2408.14484)
 ----
 
 # Todo
