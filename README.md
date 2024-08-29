@@ -151,6 +151,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)
 
 - [Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/abs/2408.14484)
+
+- [Optimizing Collaboration of LLM based Agents for Finite Element](https://arxiv.org/pdf/2408.13406)
+
 ----
 
 # Todo
