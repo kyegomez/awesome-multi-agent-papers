@@ -154,6 +154,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [Optimizing Collaboration of LLM based Agents for Finite Element](https://arxiv.org/pdf/2408.13406)
 
+- [BreachSeek: A Multi-Agent Automated Penetration Tester](https://arxiv.org/abs/2409.03789)
+
 ----
 
 # Todo
