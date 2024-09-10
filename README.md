@@ -156,6 +156,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [BreachSeek: A Multi-Agent Automated Penetration Tester](https://arxiv.org/abs/2409.03789)
 
+- [SCIAGENTS: AUTOMATING SCIENTIFIC DISCOVERY THROUGH MULTI-AGENT INTELLIGENT GRAPH REASONING ∗](https://arxiv.org/pdf/2409.05556)_
 ----
 
 # Todo
