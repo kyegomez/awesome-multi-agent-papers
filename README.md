@@ -200,3 +200,15 @@ Join the multi-agent community now on discord [HERE](https://discord.com/servers
       url={https://arxiv.org/abs/2408.03615}, 
 }
 ```
+
+```bibtex
+@misc{ghafarollahi2024sciagentsautomatingscientificdiscovery,
+      title={SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning}, 
+      author={Alireza Ghafarollahi and Markus J. Buehler},
+      year={2024},
+      eprint={2409.05556},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2409.05556}, 
+}
+```
