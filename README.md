@@ -159,6 +159,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [SCIAGENTS: AUTOMATING SCIENTIFIC DISCOVERY THROUGH MULTI-AGENT INTELLIGENT GRAPH REASONING ∗](https://arxiv.org/pdf/2409.05556)_
 
 - [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977)
+
+- [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://arxiv.org/abs/2409.05556)
 ----
 
 # Todo
