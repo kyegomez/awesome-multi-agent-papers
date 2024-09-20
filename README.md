@@ -166,6 +166,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](https://arxiv.org/pdf/2409.11527)
 
+- [LLM-AGENT-UMF: LLM-BASED AGENT UNIFIED MODELING FRAMEWORK FOR SEAMLESS INTEGRATION OF MULTI ACTIVE/PASSIVE CORE-AGENTS](https://arxiv.org/pdf/2409.11393)
+ 
+
 ----
 
 # Todo
