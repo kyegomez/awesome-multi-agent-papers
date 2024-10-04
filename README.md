@@ -171,6 +171,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts](https://huggingface.co/papers/2409.13449)
 
 - [Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02507)
+
+- [FanCric: Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams](https://arxiv.org/pdf/2410.01307)
 ----
 
 # Todo
