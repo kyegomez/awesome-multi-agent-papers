@@ -175,6 +175,10 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [FanCric: Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams](https://arxiv.org/pdf/2410.01307)
 
 - [RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](https://arxiv.org/pdf/2410.01242)
+
+- [AGENTS’ ROOM: NARRATIVE GENERATION THROUGH MULTI-STEP COLLABORATION](https://arxiv.org/pdf/2410.02603)
+
+- [GenSim: A General Social Simulation Platform with Large Language Model based Agents](https://arxiv.org/pdf/2410.04360)
 ----
 
 # Todo
