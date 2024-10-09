@@ -179,6 +179,12 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [AGENTS’ ROOM: NARRATIVE GENERATION THROUGH MULTI-STEP COLLABORATION](https://arxiv.org/pdf/2410.02603)
 
 - [GenSim: A General Social Simulation Platform with Large Language Model based Agents](https://arxiv.org/pdf/2410.04360)
+
+- [ADVERSARIAL MULTI-AGENT EVALUATION OF LARGE LANGUAGE MODELS THROUGH ITERATIVE DEBATES](https://arxiv.org/pdf/2410.04663)
+
+- [Large Language Models can Achieve Social Balance](https://arxiv.org/pdf/2410.04054)
+
+- [AUTOML-AGENT: A MULTI-AGENT LLM FRAMEWORK FOR FULL-PIPELINE AUTOML](https://arxiv.org/pdf/2410.02958)
 ----
 
 # Todo
