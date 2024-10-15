@@ -185,6 +185,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Large Language Models can Achieve Social Balance](https://arxiv.org/pdf/2410.04054)
 
 - [AUTOML-AGENT: A MULTI-AGENT LLM FRAMEWORK FOR FULL-PIPELINE AUTOML](https://arxiv.org/pdf/2410.02958)
+
+- [MULTI-AGENT COLLABORATIVE DATA SELECTION FOR EFFICIENT LLM PRETRAINING](https://huggingface.co/papers/2410.08102)
 ----
 
 # Todo
