@@ -191,6 +191,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](https://huggingface.co/papers/2410.08115)
 
 - [Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](https://arxiv.org/abs/2410.10934v1)
+
+- [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934v1)
 ----
 
 # Todo
