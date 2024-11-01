@@ -195,6 +195,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934v1)
 
 - [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/abs/2410.20424)
+
+- [AFLOW:AUTOMATING AGENTIC WORKFLOW GENERATION](https://arxiv.org/pdf/2410.10762)
 ----
 
 # Todo
