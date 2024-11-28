@@ -197,6 +197,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/abs/2410.20424)
 
 - [AFLOW:AUTOMATING AGENTIC WORKFLOW GENERATION](https://arxiv.org/pdf/2410.10762)
+
+- [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/pdf/2410.08328)
 ----
 
 # Todo
@@ -206,6 +208,17 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 Join the multi-agent community now on discord [HERE](https://discord.com/servers/agora-999382051935506503)
 
 # Citations
+```bibtex
+@misc{christakopoulou2024agentsthinkingfastslow,
+      title={Agents Thinking Fast and Slow: A Talker-Reasoner Architecture}, 
+      author={Konstantina Christakopoulou and Shibl Mourad and Maja Matarić},
+      year={2024},
+      eprint={2410.08328},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2410.08328}, 
+}
+```
 ```bibtex
 @misc{ong2024routellmlearningroutellms,
       title={RouteLLM: Learning to Route LLMs with Preference Data},
