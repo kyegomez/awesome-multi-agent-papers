@@ -199,6 +199,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [AFLOW:AUTOMATING AGENTIC WORKFLOW GENERATION](https://arxiv.org/pdf/2410.10762)
 
 - [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/pdf/2410.08328)
+
+- [AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments](https://agentclinic.github.io)
+
 ----
 
 # Todo
