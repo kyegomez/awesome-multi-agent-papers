@@ -202,6 +202,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments](https://agentclinic.github.io)
 
+- [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/pdf/2411.01747)
+
 ----
 
 # Todo
@@ -268,3 +270,14 @@ Join the multi-agent community now on discord [HERE](https://discord.com/servers
       url={https://arxiv.org/abs/2409.05556}, 
 }
 ```
+
+```bibtex
+@misc{nguyen2024dynasaurlargelanguageagents,
+      title={DynaSaur: Large Language Agents Beyond Predefined Actions}, 
+      author={Dang Nguyen and Viet Dac Lai and Seunghyun Yoon and Ryan A. Rossi and Handong Zhao and Ruiyi Zhang and Puneet Mathur and Nedim Lipka and Yu Wang and Trung Bui and Franck Dernoncourt and Tianyi Zhou},
+      year={2024},
+      eprint={2411.01747},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.01747}, 
+}
