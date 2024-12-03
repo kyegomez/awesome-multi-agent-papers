@@ -206,6 +206,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/pdf/2411.01747), nguyen2024241101747
 
+- [LLMs as Method Actors: A Model for Prompt Engineering and Architecture](https://arxiv.org/abs/2411.05778v1), doyle2024llmsmethodactorsmodel
+
 ----
 
 # Citations
