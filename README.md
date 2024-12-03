@@ -35,249 +35,183 @@
 A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission is to democratize multi-agent systems to automate the world economy with agents and usher in a post-scarcity Human civilization. [Join our community now!](https://discord.com/servers/agora-999382051935506503)
 
 ## Format
-- [ Paper Name ] [ PDF ] [ PAPER LINK ]
+
+- [Paper Name]  ([PDF PAPER LINK ]) bibtex short name
 
 ----
 
 ## Papers
-- [ K-Level Reasoning with Large Language Models ] [ [ PDF LINK ](https://browse.arxiv.org/pdf/2402.01521.pdf) ] 
 
-- [ More agents is all you need ] [ [PDF LINK](https://arxiv.org/pdf/2402.05120.pdf)]
+- [K-Level Reasoning with Large Language Models](https://arxiv.org/pdf/2402.01521), zhang2024240201521
 
-- [ LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration ] [ [PDF LINK](https://huggingface.co/papers/2402.11550)]
+- [More agents is all you need](https://arxiv.org/pdf/2402.05120.pdf),li2024240205120
 
-- [ Automated Unit Test Improvement using Large Language Models ] [ [PDF LINK](https://arxiv.org/pdf/2402.09171.pdf) ]
+- [LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration ](https://arxiv.org/pdf/2402.11550), zhao2024240211550
 
-- [ Human-level play in the game of Diplomacy by combining language models with strategic reasoning ] [ [PDF LINK](https://www.science.org/doi/10.1126/science.ade9097)]
+- [Automated Unit Test Improvement using Large Language Models ](https://arxiv.org/pdf/2402.09171.pdf), alshahwan2024240209171
 
-- [ AgentScope: A Flexible yet Robust Multi-Agent Platform ] [ [PDF](https://arxiv.org/pdf/2402.14034.pdf)] ]
+- [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
 
-- [ Experiential Co-Learning of Software-Developing Agents ] [ [PDF LINK](https://arxiv.org/abs/2312.17025) ]
+- [AgentScope: A Flexible yet Robust Multi-Agent Platform ](https://arxiv.org/pdf/2402.14034.pdf), gao2024240214034
 
-- [ Communicative Agents for Software Development] [ [PDF LINK](https://arxiv.org/pdf/2307.07924.pdf) ]
+- [Experiential Co-Learning of Software-Developing Agents](https://arxiv.org/abs/2312.17025),qian2023231217025
 
-- [ Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Match Human Crowd Accuracy ] [ [PDF LINK](https://arxiv.org/abs/2402.19379) ]
+- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924.pdf), qian2023230707924
 
-- [ Generative Agents: Interactive Simulacra of Human Behavior ] [ [PDF LINK](https://arxiv.org/abs/2304.03442)]
+- [Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Match Human Crowd Accuracy](https://arxiv.org/abs/2402.19379), schoenegger2024240219379
 
-- [ Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems ] [ [PDF LINK](https://arxiv.org/pdf/2403.02419.pdf) ]
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) park2023230403442
 
-- [ Learning to Decode Collaboratively with Multiple Language Models ] [ [PDF LINK](https://arxiv.org/abs/2403.03870)]
+- [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](https://arxiv.org/pdf/2403.02419.pdf), chen2024240302419
 
-- [ SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents ][ [PDF LINK](https://arxiv.org/pdf/2403.08715.pdf) ]
+- [Learning to Decode Collaboratively with Multiple Language Models](https://arxiv.org/abs/2403.03870), shen2024240303870
 
-- [ Mora: Enabling Generalist Video Generation via A Multi-Agent Framework ] [PDF LINK](https://arxiv.org/pdf/2403.13248) ]
+- [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132), chiang2024240304132
 
-- [ LLM Agent Operating System ] [ [PDF LINK](https://arxiv.org/pdf/2403.16971.pdf) ]
+- [SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language Agents](https://arxiv.org/pdf/2403.08715.pdf), wang2024240308715
 
-- [ MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution ] [ [PDF LINK](https://arxiv.org/abs/2403.17927) ]
+- [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248), yuan2024240313248
 
-- [ AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models ] [ [PDF LINK](https://huggingface.co/papers/2403.15157) ]
+- [AIOS: LLM Agent Operating System](https://arxiv.org/pdf/2403.16971.pdf), mei2024240316971
 
-- [ Scaling Instructable Agents Across Many Simulated Worlds ] [ [PDF LINK](https://huggingface.co/papers/2404.10179) ]
+- [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](https://arxiv.org/abs/2403.17927), tao2024240317927
 
-- [ Evolutionary Optimization of Model Merging Recipes ][ [PDF LINK](https://arxiv.org/html/2403.13187v1) ]
+- [AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models](https://huggingface.co/papers/2403.15157), zhang2024240315157
 
-- [ Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models ] [PDF LINK](https://huggingface.co/papers/2404.18796)]
+- [Scaling Instructable Agents Across Many Simulated Worlds](https://huggingface.co/papers/2404.10179), team2024240410179
 
-- [ Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents ] [ [PDF LINK](https://arxiv.org/abs/2405.02957) ]
+- [Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/html/2403.13187v1), akiba2024240313187
 
-- [ AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation ] [ [PDF LINK](https://arxiv.org/abs/2308.08155)]
+- [Replacing Judges with Juries: Evaluating LLM Generations with a Panel of Diverse Models](https://arxiv.org/abs/2404.18796), verga2024240418796
 
-- [ Chain of Agents: Large Language Models Collaborating on Long-Context Tasks] [[PDF LINK ](https://arxiv.org/abs/2406.02818)]
+- [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957), li2024240502957
 
-- [ CulturePark: Boosting Cross-cultural Understanding in Large Language Models] [[PDF LINK](https://arxiv.org/abs/2405.15145)]
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155), wu2023230808155
 
-- [ Constitutional AI: Harmlessness from AI Feedback ] [ [[PDF Link](https://arxiv.org/abs/2212.08073)]
+- [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](https://arxiv.org/abs/2406.02818), zhang2024240602818
 
-- [ Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration ] [ [PDF LINK](https://huggingface.co/papers/2406.01014)]
+- [CulturePark: Boosting Cross-cultural Understanding in Large Language Models](https://arxiv.org/abs/2405.15145), li2024240515145
 
-- [ Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692)
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073), bai2022221208073
 
-- [ AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)
+- [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://huggingface.co/papers/2406.01014), wang2024240601014
 
-- [ CODER: ISSUE RESOLVING WITH MULTI-AGENT AND TASK GRAPHS] [PDF LINK](https://arxiv.org/pdf/2406.01304)
+- [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692), wang2024240604692
 
-- [ EVOAGENT: Towards Automatic Multi-Agent: Generation via Evolutionary Algorithms](https://arxiv.org/pdf/2406.14228)
+- [AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151), xi2024240604151
 
-- [ Scaling Synthetic Data Creation with 1,000,000,000 Personas ](https://huggingface.co/papers/2406.20094)
+- [CodeR: Issue Resolving with Multi-Agent and Task Graphs](https://arxiv.org/pdf/2406.01304), chen2024240601304
 
-- [(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts](https://arxiv.org/abs/2405.11804)
+- [EvoAgent: Towards Automatic Multi-Agent: Generation via Evolutionary Algorithms](https://arxiv.org/pdf/2406.14228), yuan2024240614228
 
-- [RouteLLM: An Open-Source Framework for Cost-Effective LLM Routing](https://lmsys.org/blog/2024-07-01-routellm/)
+- [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://huggingface.co/papers/2406.20094), ge2024240620094
 
-- [ On scalable oversight with weak LLMs judging strong LLMs ](https://arxiv.org/abs/2407.04622)
+- [(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts](https://arxiv.org/abs/2405.11804), wu2024240511804
 
-- [ AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/abs/2407.03502)
+- [RouteLLM: An Open-Source Framework for Cost-Effective LLM Routing](https://lmsys.org/blog/2024-07-01-routellm/), ong2024240618665
+
+- [On scalable oversight with weak LLMs judging strong LLMs](https://arxiv.org/abs/2407.04622), kenton2024240704622
+
+- [AgentInstruct: Toward Generative Teaching with Agentic Flows](https://arxiv.org/abs/2407.03502), mitra2024240703502
 
 - [On scalable oversight with weak LLMs judging strong LLMs](https://arxiv.org/abs/2407.04622)
 
-- [ Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ](https://arxiv.org/abs/2404.16698)
+- [Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents](https://arxiv.org/abs/2404.16698), piatti2024240416698
 
-- [ Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)
+- [Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789), pan2024240717789
 
-- [ Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ](https://arxiv.org/abs/2404.16698)
+- [ Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ](https://arxiv.org/abs/2404.16698), piatti2024cooperatecollapseemergencesustainable
 
-- [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061)
+- [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061), chen2024240707061
 
-- [LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)
+- [LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535), sun2024240717535
 
-- [DIFFUSION AUGMENTED AGENTS: A FRAMEWORK FOR EFFICIENT EXPLORATION AND TRANSFER LEARNING](https://huggingface.co/papers/2407.20798)
+- [Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning](https://huggingface.co/papers/2407.20798), palo2024240720798
 
-- [From Text to Life: On the Reciprocal Relationship between Artificial Life and Large Language Models](https://arxiv.org/abs/2407.09502)
+- [From Text to Life: On the Reciprocal Relationship between Artificial Life and Large Language Models](https://arxiv.org/abs/2407.09502), nisioti2024240709502
 
-- [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066)
+- [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066), zhuge2023230517066
 
-- [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning](https://arxiv.org/abs/2310.03094)
+- [Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning](https://arxiv.org/abs/2310.03094), yue2023231003094
 
-- [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
+- [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201), chan2023230807201
 
-- [CL] From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future][https://arxiv.org/abs/2408.02479]
+- [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479), jin2024240802479
 
-- [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)
+- [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615), li2024240803615
 
-- [The AI Scientist: The world’s first AI system for automating scientific research and open-ended discovery!](https://arxiv.org/abs/2408.06292)
+- [The AI Scientist: The world’s first AI system for automating scientific research and open-ended discovery!](https://arxiv.org/abs/2408.06292), lu2024240806292
 
-- [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://www.arxiv.org/abs/2408.03910)
+- [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://www.arxiv.org/abs/2408.03910), liu2024240803910
 
-- [Integrating Expertise of Software Engineering Agents](https://huggingface.co/papers/2408.07060)
-
-   - Removed the first acouple words because their woke and communist propaganda, only reason I'm adding it is because it beats SOTA
+- [Diversity Empowers Intelligence: Integrating Expertise of Software   Engineering Agents](https://arxiv.org/abs/2408.07060), zhang2024240807060
  
-- [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435)
+- [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435), hu2024240808435
 
-- [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](https://arxiv.org/pdf/2408.08688)
+- [The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation](https://arxiv.org/pdf/2408.08688), arif2024240808688
 
-- [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)
+- [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496), wei2024240812496
 
-- [Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/abs/2408.14484)
+- [Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/abs/2408.14484), ravuru2024240814484
 
-- [Optimizing Collaboration of LLM based Agents for Finite Element](https://arxiv.org/pdf/2408.13406)
+- [Optimizing Collaboration of LLM based Agents for Finite Element](https://arxiv.org/pdf/2408.13406), tian2024240813406
 
-- [BreachSeek: A Multi-Agent Automated Penetration Tester](https://arxiv.org/abs/2409.03789)
+- [BreachSeek: A Multi-Agent Automated Penetration Tester](https://arxiv.org/abs/2409.03789), alshehri2024240903789
 
-- [SCIAGENTS: AUTOMATING SCIENTIFIC DISCOVERY THROUGH MULTI-AGENT INTELLIGENT GRAPH REASONING ∗](https://arxiv.org/pdf/2409.05556)_
+- [SciAgents: Automating scientific discovery through multi-agent   intelligent graph reasoning](https://arxiv.org/pdf/2409.05556), ghafarollahi2024240905556
 
-- [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977)
+- [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977), liu2024240902977
 
 - [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://arxiv.org/abs/2409.05556)
 
-- [AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing](https://arxiv.org/pdf/2409.10737)
+- [AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing](https://arxiv.org/pdf/2409.10737), nunez2024240910737
 
-- [Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](https://arxiv.org/pdf/2409.11527)
+- [Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](https://arxiv.org/pdf/2409.11527), haji2024240911527,
 
-- [LLM-AGENT-UMF: LLM-BASED AGENT UNIFIED MODELING FRAMEWORK FOR SEAMLESS INTEGRATION OF MULTI ACTIVE/PASSIVE CORE-AGENTS](https://arxiv.org/pdf/2409.11393)
+- [LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless   Integration of Multi Active/Passive Core-Agents](https://arxiv.org/pdf/2409.11393), assouna2024240911393
 
-- [Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts](https://huggingface.co/papers/2409.13449)
+- [Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts](https://huggingface.co/papers/2409.13449), wang2024240913449
 
-- [Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02507)
+- [Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Insights from Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02507), yuan2024241002507
 
-- [FanCric: Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams](https://arxiv.org/pdf/2410.01307)
+- [FanCric: Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams](https://arxiv.org/pdf/2410.01307), bhatnagar2024241001307
 
-- [RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](https://arxiv.org/pdf/2410.01242)
+- [RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](https://arxiv.org/pdf/2410.01242), jin2024241001242
 
-- [AGENTS’ ROOM: NARRATIVE GENERATION THROUGH MULTI-STEP COLLABORATION](https://arxiv.org/pdf/2410.02603)
+- [Agents' Room: Narrative Generation through Multi-step Collaboration](https://arxiv.org/pdf/2410.02603), huot2024241002603
 
-- [GenSim: A General Social Simulation Platform with Large Language Model based Agents](https://arxiv.org/pdf/2410.04360)
+- [GenSim: A General Social Simulation Platform with Large Language Model based Agents](https://arxiv.org/pdf/2410.04360), tang2024241004360
 
-- [ADVERSARIAL MULTI-AGENT EVALUATION OF LARGE LANGUAGE MODELS THROUGH ITERATIVE DEBATES](https://arxiv.org/pdf/2410.04663)
+- [Adversarial Multi-Agent Evaluation of Large Language Models through   Iterative Debates](https://arxiv.org/pdf/2410.04663), bandi2024241004663
 
-- [Large Language Models can Achieve Social Balance](https://arxiv.org/pdf/2410.04054)
+- [Large Language Models can Achieve Social Balance](https://arxiv.org/pdf/2410.04054), cisneros-velarde2024241004054
 
-- [AUTOML-AGENT: A MULTI-AGENT LLM FRAMEWORK FOR FULL-PIPELINE AUTOML](https://arxiv.org/pdf/2410.02958)
+- [AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML](https://arxiv.org/pdf/2410.02958), trirat2024241002958
 
-- [MULTI-AGENT COLLABORATIVE DATA SELECTION FOR EFFICIENT LLM PRETRAINING](https://huggingface.co/papers/2410.08102)
+- [Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining](https://huggingface.co/papers/2410.08102), bai2024241008102
 
-- [Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](https://huggingface.co/papers/2410.08115)
+- [Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](https://huggingface.co/papers/2410.08115), chen2024241008115
 
 - [Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](https://arxiv.org/abs/2410.10934v1)
 
-- [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934v1)
+- [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934v1), zhuge2024241010934
 
-- [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/abs/2410.20424)
+- [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions](https://arxiv.org/abs/2410.20424), li2024241020424
 
-- [AFLOW:AUTOMATING AGENTIC WORKFLOW GENERATION](https://arxiv.org/pdf/2410.10762)
+- [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/pdf/2410.10762), zhang2024241010762
 
-- [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/pdf/2410.08328)
+- [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/pdf/2410.08328), christakopoulou2024241008328
 
-- [AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments](https://agentclinic.github.io)
+- [AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments](https://arxiv.org/pdf/2405.07960), schmidgall2024agentclinicmultimodalagentbenchmark
 
-- [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/pdf/2411.01747)
+- [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/pdf/2411.01747), nguyen2024241101747
 
 ----
 
-# Todo
-- Create a citations section with citations for every paper!
+# Citations
+
+In the arxiv_bibtex.bib file, you can find the bibtex citations for all the papers in this repository.
+
 
 # Community
 Join the multi-agent community now on discord [HERE](https://discord.com/servers/agora-999382051935506503)
-
-# Citations
-```bibtex
-@misc{christakopoulou2024agentsthinkingfastslow,
-      title={Agents Thinking Fast and Slow: A Talker-Reasoner Architecture}, 
-      author={Konstantina Christakopoulou and Shibl Mourad and Maja Matarić},
-      year={2024},
-      eprint={2410.08328},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2410.08328}, 
-}
-```
-```bibtex
-@misc{ong2024routellmlearningroutellms,
-      title={RouteLLM: Learning to Route LLMs with Preference Data},
-      author={Isaac Ong and Amjad Almahairi and Vincent Wu and Wei-Lin Chiang and Tianhao Wu and Joseph E. Gonzalez and M Waleed Kadous and Ion Stoica},
-      year={2024},
-      eprint={2406.18665},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2406.18665},
-}
-```
-
-```bibtex
-@misc{chiang2024chatbot,
-    title={Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference},
-    author={Wei-Lin Chiang and Lianmin Zheng and Ying Sheng and Anastasios Nikolas Angelopoulos and Tianle Li and Dacheng Li and Hao Zhang and Banghua Zhu and Michael Jordan and Joseph E. Gonzalez and Ion Stoica},
-    year={2024},
-    eprint={2403.04132},
-    archivePrefix={arXiv},
-    primaryClass={cs.AI}
-}
-```
-
-```bibtex
-@misc{li2024optimus1hybridmultimodalmemory,
-      title={Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks}, 
-      author={Zaijing Li and Yuquan Xie and Rui Shao and Gongwei Chen and Dongmei Jiang and Liqiang Nie},
-      year={2024},
-      eprint={2408.03615},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2408.03615}, 
-}
-```
-
-```bibtex
-@misc{ghafarollahi2024sciagentsautomatingscientificdiscovery,
-      title={SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning}, 
-      author={Alireza Ghafarollahi and Markus J. Buehler},
-      year={2024},
-      eprint={2409.05556},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2409.05556}, 
-}
-```
-
-```bibtex
-@misc{nguyen2024dynasaurlargelanguageagents,
-      title={DynaSaur: Large Language Agents Beyond Predefined Actions}, 
-      author={Dang Nguyen and Viet Dac Lai and Seunghyun Yoon and Ryan A. Rossi and Handong Zhao and Ruiyi Zhang and Puneet Mathur and Nedim Lipka and Yu Wang and Trung Bui and Franck Dernoncourt and Tianyi Zhou},
-      year={2024},
-      eprint={2411.01747},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2411.01747}, 
-}
