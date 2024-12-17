@@ -210,6 +210,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [DataLab: A Unifed Platform for LLM-Powered Business Intelligence](https://arxiv.org/abs/2412.02205)
 
+- [Cultural Evolution of Cooperation among LLM Agents](https://arxiv.org/pdf/2412.10270), vallinder2024culturalevolutioncooperationllm
+
+
 ----
 
 # Citations
