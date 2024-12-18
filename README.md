@@ -208,7 +208,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [LLMs as Method Actors: A Model for Prompt Engineering and Architecture](https://arxiv.org/abs/2411.05778v1), doyle2024llmsmethodactorsmodel
 
-- [DataLab: A Unifed Platform for LLM-Powered Business Intelligence](https://arxiv.org/abs/2412.02205)
+- [DataLab: A Unifed Platform for LLM-Powered Business Intelligence](https://arxiv.org/abs/2412.02205), schmidgall2024agentclinicmultimodalagentbenchmark
 
 - [Cultural Evolution of Cooperation among LLM Agents](https://arxiv.org/pdf/2412.10270), vallinder2024culturalevolutioncooperationllm
 
