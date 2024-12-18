@@ -212,6 +212,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [Cultural Evolution of Cooperation among LLM Agents](https://arxiv.org/pdf/2412.10270), vallinder2024culturalevolutioncooperationllm
 
+- [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/abs/2412.13194), zhou2024proposeragentevaluatorpaeautonomousskilldiscovery
 
 ----
 
