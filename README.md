@@ -216,6 +216,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [SDPO: Segment-Level Direct Preference Optimization for Social Agents](https://arxiv.org/abs/2501.01821), kong2025sdposegmentleveldirectpreference
 
+- [BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery](https://arxiv.org/abs/2501.01540), gandhi2025boxinggymbenchmarkingprogressautomated
+
+
 ----
 
 # Citations
