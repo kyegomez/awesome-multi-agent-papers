@@ -218,6 +218,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [BoxingGym: Benchmarking Progress in Automated Experimental Design and Model Discovery](https://arxiv.org/abs/2501.01540), gandhi2025boxinggymbenchmarkingprogressautomated
 
+- [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161), xu2024theagentcompanybenchmarkingllmagents
 
 ----
 
