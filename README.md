@@ -221,6 +221,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161), xu2024theagentcompanybenchmarkingllmagents
 
 - [When One LLM Drools, Multi-LLM Collaboration Rules](https://arxiv.org/abs/2502.04506), eng2025llmdroolsmultillmcollaboration
+
+- [PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](https://arxiv.org/abs/2502.14282), liu2025pcagenthierarchicalmultiagentcollaboration
 ----
 
 # Citations
