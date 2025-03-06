@@ -225,6 +225,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](https://arxiv.org/abs/2502.14282), liu2025pcagenthierarchicalmultiagentcollaboration
 
 - [Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems](https://arxiv.org/abs/2502.11098), wang2025talkstructurallyacthierarchically
+
+- [MultiAgentBench : Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/pdf/2503.01935)
 ----
 
 # Citations
