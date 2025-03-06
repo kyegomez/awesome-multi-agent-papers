@@ -228,6 +228,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/abs/2503.01935), zhu2025multiagentbenchevaluatingcollaborationcompetition
 
+- [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928), motwani2025maltimprovingreasoningmultiagent
+
+
 ----
 
 # Citations
