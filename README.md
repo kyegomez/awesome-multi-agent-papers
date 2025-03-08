@@ -230,6 +230,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928), motwani2025maltimprovingreasoningmultiagent
 
+- [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180)
 
 ----
 
