@@ -232,11 +232,11 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472), qin2024mp5multimodalopenendedembodied
 
-- [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180)
+- [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180), zhang2025multiagentarchitecturesearchagentic
 
-- [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/html/2502.08691v1#:~:text=simulacra%20of%20society,external%20shocks%20such%20as%20hurricanes)
+- [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/abs/2502.08691v1), piao2025agentsocietylargescalesimulationllmdriven
 
-- [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/html/2411.11581)
+- [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581), yang2024oasisopenagentsocial
 
 ----
 
