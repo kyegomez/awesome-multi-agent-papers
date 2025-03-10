@@ -234,6 +234,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/html/2502.08691v1#:~:text=simulacra%20of%20society,external%20shocks%20such%20as%20hurricanes)
 
+- [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/html/2411.11581)
 ----
 
 # Citations
