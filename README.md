@@ -231,6 +231,13 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928), motwani2025maltimprovingreasoningmultiagent
 
 - [MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472), qin2024mp5multimodalopenendedembodied
+
+- [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180)
+
+- [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/html/2502.08691v1#:~:text=simulacra%20of%20society,external%20shocks%20such%20as%20hurricanes)
+
+- [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/html/2411.11581)
+
 ----
 
 # Citations
