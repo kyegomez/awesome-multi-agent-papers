@@ -238,9 +238,10 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581), yang2024oasisopenagentsocial
 
-- [Enhancing Reasoning with Collaboration and Memory](https://arxiv.org/pdf/2503.05944)
+- [Enhancing Reasoning with Collaboration and Memory](https://arxiv.org/pdf/2503.05944), michelman2025enhancingreasoningcollaborationmemory
 
-- [Multi Agent based Medical Assistant for Edge Devices](https://arxiv.org/pdf/2503.05397)
+- [Multi Agent based Medical Assistant for Edge Devices](https://arxiv.org/pdf/2503.05397), gawade2025multiagentbasedmedical
+
 ----
 
 # Citations
