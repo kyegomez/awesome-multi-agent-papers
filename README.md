@@ -242,6 +242,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [Multi Agent based Medical Assistant for Edge Devices](https://arxiv.org/pdf/2503.05397), gawade2025multiagentbasedmedical
 
+- [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)
+
 ----
 
 # Citations
