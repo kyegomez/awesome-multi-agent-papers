@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://twitter.com/swarms_corp/">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://discord.com/servers/agora-999382051935506503">📢 Discord</a>
+<a href="https://discord.gg/jM3Z6M9uMq">📢 Discord</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://swarms.world/explorer">Swarms Platform</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
