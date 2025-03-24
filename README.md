@@ -170,6 +170,10 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 
 
+# Agents for Research
+- **[Towards Collaborative Autonomous Research](https://agentrxiv.github.io/)**
+
+
 ----
 
 # Citations
