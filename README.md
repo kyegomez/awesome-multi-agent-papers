@@ -182,4 +182,4 @@ In the arxiv_bibtex.bib file, you can find the bibtex citations for all the pape
 
 
 # Community
-Join the multi-agent community now on discord [HERE](https://discord.com/servers/agora-999382051935506503)
+Join the multi-agent community now on discord [HERE](https://discord.gg/jM3Z6M9uMq)
