@@ -842,6 +842,8 @@ The shift from single model inference, employing a trillion-parameter model, to 
 - **[Towards Collaborative Autonomous Research](https://agentrxiv.github.io/)**
 
 
+- [A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/pdf/2504.12322)
+
 ----
 
 # Citations
