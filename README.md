@@ -835,6 +835,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - [A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/pdf/2504.12322)
 
+- [Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://kjha02.github.io/publication/cross-env-coop)
+
 ----
 
 # Citations
