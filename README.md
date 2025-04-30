@@ -87,7 +87,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**
 - **[MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)**
 - **[Multi Agent based Medical Assistant for Edge Devices](https://arxiv.org/pdf/2503.05397)**
-
+- **[Can AI Agents Design and Implement Drug Discovery Pipelines?]**(https://arxiv.org/abs/2504.19912)
 ### Data & ML
 - **[LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)**
 - **[Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/abs/2408.14484)**
