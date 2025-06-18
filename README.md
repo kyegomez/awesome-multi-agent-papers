@@ -18,7 +18,7 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/jM3Z6M9uMq">📢 Discord</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://swarms.world/explorer">Swarms Platform</a>
+<a href="https://swarms.ai">Swarms Website</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://github.com/kyegomez/swarms">📙 Framework</a>
 </p>
@@ -32,7 +32,7 @@
 
 
 
-A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission is to democratize multi-agent systems to automate the world economy with agents and usher in a post-scarcity Human civilization. [Join our community now!](https://discord.com/servers/agora-999382051935506503)
+A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at swarms is to build the world's most powerful, reliable, and scalable multi-agent infrastructure stack. [Join our community now!](https://discord.gg/jM3Z6M9uMq)
 
 ## Format
 
@@ -843,6 +843,10 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 # Citations
 
 In the arxiv_bibtex.bib file, you can find the bibtex citations for all the papers in this repository.
+
+# Contribution
+
+If you see a multi-agent paper not listed here please submit a PR so we can keep track of it and enable newcomers to enjoy a simple centralized repository for multi-agent research papers!
 
 
 # Community
