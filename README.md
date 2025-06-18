@@ -7,7 +7,7 @@
   <em>A compilation of the best multi-agent papers</em>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://pypi.org/project/swarms/" target="_blank">
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img alt="Version" src="https://img.shields.io/pypi/v/swarms?style=for-the-badge&color=3670A0">
