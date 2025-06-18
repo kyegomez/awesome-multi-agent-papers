@@ -36,7 +36,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 ## Format
 
-- [Paper Name]  ([PDF PAPER LINK ]) bibtex short name
+- [Paper Name] [Description:] [Link] 
 
 ----
 
