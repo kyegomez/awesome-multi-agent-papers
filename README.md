@@ -132,6 +132,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 ## Social Simulation & Agent Societies
 
+- **[TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://arxiv.org/abs/2502.01506)**
 - **[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)**
 - **[SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents](https://arxiv.org/pdf/2403.08715.pdf)**
 - **[Scaling Instructable Agents Across Many Simulated Worlds](https://huggingface.co/papers/2404.10179)**
