@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <a href="https://swarms.world">
     <h1>Awesome Multi-Agent Papers</h1>
   </a>
 </div>
-<p align="center">
+<p align="left">
   <em>A compilation of the best multi-agent papers</em>
 </p>
 
@@ -13,7 +13,7 @@
         <img alt="Version" src="https://img.shields.io/pypi/v/swarms?style=for-the-badge&color=3670A0">
     </a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/swarms_corp/">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/jM3Z6M9uMq">📢 Discord</a>
