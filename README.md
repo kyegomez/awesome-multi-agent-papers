@@ -51,10 +51,12 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
+- **[ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/pdf/2404.14777)**
 - **[AgentClinic: A Multimodal Agent Benchmark for AI in Clinical Environments](https://arxiv.org/pdf/2405.07960)**
 - **[MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents](https://arxiv.org/abs/2503.01935)**
 - **[TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)**
 - **[BoxingGym: Benchmarking Progress in Automated Experimental Design](https://arxiv.org/abs/2501.01540)**
+- **[Foam-Agent: Towards Automated Intelligent CFD Workflows](https://arxiv.org/abs/2505.04997)**
 
 ## Application-Specific Multi-Agent Systems
 
