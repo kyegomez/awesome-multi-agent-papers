@@ -117,6 +117,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)**
 - **[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)**
 - **[Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](https://arxiv.org/pdf/2409.11527)**
+- **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](https://arxiv.org/abs/2506.20664)**
 
 ## Social Simulation & Agent Societies
 
