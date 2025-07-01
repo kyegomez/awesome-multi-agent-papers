@@ -842,4 +842,17 @@ If you see a multi-agent paper not listed here please submit a PR so we can keep
 
 
 # Community
-Join the multi-agent community now on discord [HERE](https://discord.gg/jM3Z6M9uMq)
+
+Join our community of agent engineers and researchers for technical support, cutting-edge updates, and exclusive access to world-class agent engineering insights!
+
+| Platform | Description | Link |
+|----------|-------------|------|
+| 📚 Documentation | Official documentation and guides | [docs.swarms.world](https://docs.swarms.world) |
+| 📝 Blog | Latest updates and technical articles | [Medium](https://medium.com/@kyeg) |
+| 💬 Discord | Live chat and community support | [Join Discord](https://discord.gg/jM3Z6M9uMq) |
+| 🐦 Twitter | Latest news and announcements | [@kyegomez](https://twitter.com/kyegomez) |
+| 👥 LinkedIn | Professional network and updates | [The Swarm Corporation](https://www.linkedin.com/company/the-swarm-corporation) |
+| 📺 YouTube | Tutorials and demos | [Swarms Channel](https://www.youtube.com/channel/UC9yXyitkbU_WSy7bd_41SqQ) |
+| 🎫 Events | Join our community events | [Sign up here](https://lu.ma/5p2jnc2v) |
+| 🚀 Onboarding Session | Get onboarded with Kye Gomez, creator and lead maintainer of Swarms | [Book Session](https://cal.com/swarms/swarms-onboarding-session) |
+
