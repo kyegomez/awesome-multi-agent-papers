@@ -76,7 +76,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)**
 - **[Multi Agent based Medical Assistant for Edge Devices](https://arxiv.org/pdf/2503.05397)**
 - **[Can AI Agents Design and Implement Drug Discovery Pipelines?](https://arxiv.org/abs/2504.19912)**
-- **[Sequential Diagnosis with Language Models](https://arxiv.org/pdf/2506.22405)**
+- **[Sequential Diagnosis with Language Models](https://arxiv.org/pdf/2506.22405) [Open Source Implmentation](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator)**
 
 ### Data & ML
 - **[LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)**
