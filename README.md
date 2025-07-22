@@ -47,6 +47,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](https://huggingface.co/papers/2410.08115)**
 - **[SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence](https://arxiv.org/pdf/2506.15672)**
 - **[AGENTSNET: Coordination and Collaborative Reasoning in Multi-Agent LLMs](https://www.arxiv.org/abs/2507.08616)**
+- **[LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra](https://arxiv.org/pdf/2507.15815)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
