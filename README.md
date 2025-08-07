@@ -72,6 +72,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977)**
 - **[AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation](https://arxiv.org/pdf/2409.10737)**
 - **[RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](https://arxiv.org/pdf/2410.01242)**
+- **[CoAct-1: Computer-using Agents with Coding as Actions](https://arxiv.org/abs/2508.03923)**
 
 ### Healthcare & Medical
 - **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**
