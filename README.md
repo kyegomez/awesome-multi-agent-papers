@@ -126,6 +126,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)**
 - **[Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](https://arxiv.org/pdf/2409.11527)**
 - **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](https://arxiv.org/abs/2506.20664)**
+- **[Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)**
 
 ## Social Simulation & Agent Societies
 
