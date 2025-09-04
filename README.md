@@ -102,6 +102,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)**
 - **[MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472)**
 - **[PC-Agent: A Hierarchical Multi-Agent Framework for Complex Task Automation on PC](https://arxiv.org/abs/2502.14282)**
+- **[Improving Large Vision and Language Models by Learning from a Panel of Peers](https://huggingface.co/papers/2509.01610)**
 
 ### Other Domains
 - **[Human-level play in Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)**
