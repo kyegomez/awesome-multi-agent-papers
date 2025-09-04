@@ -148,6 +148,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents](https://arxiv.org/abs/2502.08691v1)**
 - **[OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581)**
 - **[LLM-Based Social Simulations Require a Boundary](https://arxiv.org/pdf/2506.19806)**
+- **[Social World Models](https://arxiv.org/abs/2509.00559)**
 
 ## Workflow, Architecture & Agent Design
 
