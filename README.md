@@ -49,6 +49,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[AGENTSNET: Coordination and Collaborative Reasoning in Multi-Agent LLMs](https://www.arxiv.org/abs/2507.08616)**
 - **[LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra](https://arxiv.org/pdf/2507.15815)**
 - **[SOTOPIA-RL: REWARD DESIGN FOR SOCIAL INTELLIGENCE](https://arxiv.org/abs/2508.03905)**
+- **[Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate](https://arxiv.org/abs/2509.05396)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
