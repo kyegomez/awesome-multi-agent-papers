@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/swarms_corp/">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://discord.gg/jM3Z6M9uMq">📢 Discord</a>
+<a href="https://discord.gg/EamjgSaEQf">📢 Discord</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://swarms.ai">Swarms Website</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -19,7 +19,7 @@
 
 
 
-A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at swarms is to build the world's most powerful, reliable, and scalable multi-agent infrastructure stack. [Join our community now!](https://discord.gg/jM3Z6M9uMq)
+A compilation of the best multi-agent papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at swarms is to build the world's most powerful, reliable, and scalable multi-agent infrastructure stack. [Join our community now!](https://discord.gg/EamjgSaEQf)
 
 ## Format
 
@@ -869,7 +869,7 @@ Join our community of agent engineers and researchers for technical support, cut
 |----------|-------------|------|
 | 📚 Documentation | Official documentation and guides | [docs.swarms.world](https://docs.swarms.world) |
 | 📝 Blog | Latest updates and technical articles | [Medium](https://medium.com/@kyeg) |
-| 💬 Discord | Live chat and community support | [Join Discord](https://discord.gg/jM3Z6M9uMq) |
+| 💬 Discord | Live chat and community support | [Join Discord](https://discord.gg/EamjgSaEQf) |
 | 🐦 Twitter | Latest news and announcements | [@kyegomez](https://twitter.com/kyegomez) |
 | 👥 LinkedIn | Professional network and updates | [The Swarm Corporation](https://www.linkedin.com/company/the-swarm-corporation) |
 | 📺 YouTube | Tutorials and demos | [Swarms Channel](https://www.youtube.com/channel/UC9yXyitkbU_WSy7bd_41SqQ) |
