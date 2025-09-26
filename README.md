@@ -173,7 +173,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Enhancing Reasoning with Collaboration and Memory](https://arxiv.org/pdf/2503.05944)**
 - **[Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning](https://huggingface.co/papers/2407.20798)**
 - **[Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](https://arxiv.org/abs/2410.10934v1)**
-- [MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://huggingface.co/papers/2503.13964)
+- **[MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://huggingface.co/papers/2503.13964)**
+- **[Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://huggingface.co/papers/2509.21072)**
 
 ## Science
 
