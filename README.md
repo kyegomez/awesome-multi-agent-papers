@@ -51,6 +51,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[SOTOPIA-RL: REWARD DESIGN FOR SOCIAL INTELLIGENCE](https://arxiv.org/abs/2508.03905)**
 - **[Talk Isn't Always Cheap: Understanding Failure Modes in Multi-Agent Debate](https://arxiv.org/abs/2509.05396)**
 - **[Virtual Agent Economies](https://huggingface.co/papers/2509.10147)**
+- **[Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI](https://arxiv.org/pdf/2509.20175)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
