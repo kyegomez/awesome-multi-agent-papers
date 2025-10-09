@@ -116,6 +116,8 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[FanCric: Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams](https://arxiv.org/pdf/2410.01307)**
 - **[Can Large Language Models Grasp Legal Theories? Enhance Legal Reasoning with Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02507)**
 - **[SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction](https://huggingface.co/papers/2509.00581)**
+- **[CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games](https://aclanthology.org/2025.acl-long.389/)**
+- **[Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](https://proceedings.neurips.cc/paper_files/paper/2024/hash/df2d62b96a4003203450cf89cd338bb7-Abstract-Conference.html)**
 
 ## Evaluation & Model Improvement
 
@@ -135,6 +137,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent](https://arxiv.org/pdf/2409.11527)**
 - **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](https://arxiv.org/abs/2506.20664)**
 - **[Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2508.13167)**
+- **[Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs](https://arxiv.org/abs/2505.17512)**
 
 ## Social Simulation & Agent Societies
 
@@ -156,6 +159,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581)**
 - **[LLM-Based Social Simulations Require a Boundary](https://arxiv.org/pdf/2506.19806)**
 - **[Social World Models](https://arxiv.org/abs/2509.00559)**
+- **[Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435)**
 
 ## Workflow, Architecture & Agent Design
 
