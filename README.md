@@ -55,6 +55,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 ## Multi-Agent Frameworks & Benchmarks
 
+- **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
 - **[AgentClinic: A Multimodal Agent Benchmark for AI in Clinical Environments](https://arxiv.org/pdf/2405.07960)**
@@ -843,6 +844,15 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
    <details>
      <summary> Abstract </summary>
      This paper explores existing works of multi-agent systems and identifies challenges that remain inadequately addressed. By leveraging the diverse capabilities and roles of individual agents within a multi-agent system, these systems can tackle complex tasks through collaboration. We discuss optimizing task allocation, fostering robust reasoning through iterative debates, managing complex and layered context information, and enhancing memory management to support the intricate interactions within multi-agent systems. We also explore the potential application of multi-agent systems in blockchain systems to shed light on their future development and application in real-world distributed systems.
+  </details>
+
+- **MALLM: Multi-Agent Large Language Models Framework**
+   Jonas Becker, Lars Benedikt Kaesberg, Niklas Bauer, Jan Philip Wahle, Terry Ruas, Bela Gipp
+   arxiv.org 2025
+   [open paper page](https://arxiv.org/abs/2509.11656)
+   <details>
+     <summary> Abstract </summary>
+     Multi-agent debate (MAD) has demonstrated the ability to augment collective intelligence by scaling test-time compute and leveraging expertise. Current frameworks for multi-agent debate are often designed towards tool use, lack integrated evaluation, or provide limited configurability of agent personas, response generators, discussion paradigms, and decision protocols. We introduce MALLM (Multi-Agent Large Language Models), an open-source framework that enables systematic analysis of MAD components. MALLM offers more than 144 unique configurations of MAD, including (1) agent personas (e.g., Expert, Personality), (2) response generators (e.g., Critical, Reasoning), (3) discussion paradigms (e.g., Memory, Relay), and (4) decision protocols (e.g., Voting, Consensus). MALLM uses simple configuration files to define a debate. Furthermore, MALLM can load any textual Hugging Face dataset (e.g., MMLU-Pro, WinoGrande) and provides an evaluation pipeline for easy comparison of MAD configurations. MALLM enables researchers to systematically configure, run, and evaluate debates for their problems, facilitating the understanding of the components and their interplay.
   </details>
 
 # Agents for Research
