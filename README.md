@@ -198,6 +198,9 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 ## Others
 - **[PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs](https://huggingface.co/papers/2508.17188)**
 
+## RL
+- **[The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240)**
+
 # Papers
 
 - **Generative Agents: Interactive Simulacra of Human Behavior**
