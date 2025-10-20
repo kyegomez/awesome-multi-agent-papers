@@ -188,6 +188,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[Model Swarms: Collaborative Search to Adapt LLM Experts via Swarm Intelligence](https://arxiv.org/abs/2410.10934v1)**
 - **[MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://huggingface.co/papers/2503.13964)**
 - **[Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://huggingface.co/papers/2509.21072)**
+- **[Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation](https://huggingface.co/papers/2510.15624)**
 
 ## Science
 
