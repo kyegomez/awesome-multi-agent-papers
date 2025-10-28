@@ -189,6 +189,11 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://huggingface.co/papers/2503.13964)**
 - **[Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://huggingface.co/papers/2509.21072)**
 - **[Build Your Personalized Research Group: A Multiagent Framework for Continual and Interactive Science Automation](https://huggingface.co/papers/2510.15624)**
+- **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](https://huggingface.co/papers/2510.19600)**
+- **[Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://huggingface.co/papers/2510.18821)**
+- **[Thought Communication in Multiagent Collaboration](https://huggingface.co/papers/2510.20733)**
+- **[Communication to Completion: Modeling Collaborative Workflows with Intelligent Multi-Agent Communication](https://huggingface.co/papers/2510.19995)**
+- **[ComProScanner: A multi-agent based framework for composition-property structured data extraction from scientific literature](https://huggingface.co/papers/2510.20362)**
 
 ## Science
 
