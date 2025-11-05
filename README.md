@@ -29,6 +29,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 
 
 ## Multi-Agent Collaboration & System Design
+- **[Thought Communication in Multiagent Collaboration](https://arxiv.org/pdf/2510.20733)**
 - **[MAS-Zero: Designing Multi-Agent Systems with Zero Supervision](https://mas-design.github.io/)**
 - **[K-Level Reasoning with Large Language Models](https://arxiv.org/pdf/2402.01521)**
 - **[More Agents is All You Need](https://arxiv.org/pdf/2402.05120.pdf)**
