@@ -68,6 +68,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[BoxingGym: Benchmarking Progress in Automated Experimental Design](https://arxiv.org/abs/2501.01540)**
 - **[Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence](https://arxiv.org/abs/2508.20019)**
 - **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](https://huggingface.co/papers/2510.08529)**
+- **[The Collaboration Gap](https://huggingface.co/papers/2511.02687)**
 
 ## Application-Specific Multi-Agent Systems
 
