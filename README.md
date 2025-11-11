@@ -71,6 +71,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/pdf/2504.12322)**
 - **[Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://kjha02.github.io/publication/cross-env-coop)**
 - **[Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation](https://arxiv.org/abs/2511.02303)**
+- **[The Station: An Open-World Environment for AI-Driven Discovery](https://huggingface.co/papers/2511.06309)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
