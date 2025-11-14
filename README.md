@@ -123,6 +123,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://api.semanticscholar.org/CorpusId:269303028)**
 - **[Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics](https://api.semanticscholar.org/CorpusId:273098806)**
 - **[MADD: Multi-Agent Drug Discovery Orchestra](https://huggingface.co/papers/2511.08217)**
+- **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/pdf/2511.08151)**
 
 ### Data & ML
 - **[LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)**
