@@ -220,6 +220,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[LLM-Based Social Simulations Require a Boundary](https://arxiv.org/pdf/2506.19806)**
 - **[Social World Models](https://arxiv.org/abs/2509.00559)**
 - **[Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435)**
+- **[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://aclanthology.org/2025.emnlp-main.1562/)**
 
 ## Workflow, Architecture & Agent Design
 
