@@ -292,6 +292,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 
 - **[PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs](https://huggingface.co/papers/2508.17188)**
 - **[MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://doi.org/10.48550/arXiv.2308.00352)**
+- **[Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO](https://arxiv.org/abs/2511.13288)**
 
 ## Agents for Research
 
