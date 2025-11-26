@@ -304,6 +304,10 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 
 - **[Towards Collaborative Autonomous Research](https://agentrxiv.github.io/)**
 
+## Training
+
+- **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)**
+
 ----
 
 # Citations
