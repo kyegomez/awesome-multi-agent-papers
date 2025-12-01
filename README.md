@@ -88,6 +88,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs](https://api.semanticscholar.org/CorpusId:258179056)**
 - **[AutoAgents: A Framework for Automatic Agent Generation](https://api.semanticscholar.org/CorpusId:263310605)**
 - **[MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems](https://api.semanticscholar.org/CorpusId:276781761)**
+- **[Multi-Agent Collaboration via Evolving Orchestration](https://openreview.net/pdf/9727f658d788c52f49f12ae4b230baf4cf0d4007.pdf)**
 
 ## Application-Specific Multi-Agent Systems
 
