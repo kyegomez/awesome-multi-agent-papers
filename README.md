@@ -150,6 +150,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering](https://api.semanticscholar.org/CorpusId:274992537)**
 - **[Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10657391)**
 - **[Two Heads Are Better Than One: Collaborative LLM Embodied Agents for Human-Robot Interaction](https://api.semanticscholar.org/CorpusId:274281016)**
+- **[LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://huggingface.co/papers/2512.20618)**
 
 ### Other Domains
 - **[Human-level play in Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)**
