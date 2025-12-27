@@ -224,6 +224,8 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Social World Models](https://arxiv.org/abs/2509.00559)**
 - **[Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435)**
 - **[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://aclanthology.org/2025.emnlp-main.1562/)**
+- **[Greater than the Sum of its Parts: Exploring Social Influence of Multi-Agents](https://doi.org/10.1145/3706599.3719973)**
+- **[Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human–Agent Interactions](https://dl.acm.org/doi/pdf/10.1145/3757633)**
 
 ## Workflow, Architecture & Agent Design
 
