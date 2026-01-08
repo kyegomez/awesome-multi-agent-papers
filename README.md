@@ -226,6 +226,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://aclanthology.org/2025.emnlp-main.1562/)**
 - **[Greater than the Sum of its Parts: Exploring Social Influence of Multi-Agents](https://doi.org/10.1145/3706599.3719973)**
 - **[Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human–Agent Interactions](https://dl.acm.org/doi/pdf/10.1145/3757633)**
+- **[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://pub.sakana.ai/drq/)**
 
 ## Workflow, Architecture & Agent Design
 
