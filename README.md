@@ -113,6 +113,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead](https://api.semanticscholar.org/CorpusId:274965784)**
 - **[Tailoring with Targeted Precision: Edit-Based Agents for Open-Domain Procedure Customization](https://api.semanticscholar.org/CorpusId:268231438)**
 - **[Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents](https://api.semanticscholar.org/CorpusId:273482697)**
+- **[Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)** A blog by Cursor
 
 ### Healthcare & Medical
 - **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**
