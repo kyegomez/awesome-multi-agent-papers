@@ -283,7 +283,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](https://api.semanticscholar.org/CorpusId:276580906)**
 - **[YOLO-MARL: You Only LLM Once for Multi-agent Reinforcement Learning](https://api.semanticscholar.org/CorpusId:273186556)**
 - **[LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions](https://api.semanticscholar.org/CorpusId:269921354)**
-
+- **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://huggingface.co/papers/2601.09667)**
 ## Surveys
 
 - **[Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://api.semanticscholar.org/CorpusId:267412980)**
