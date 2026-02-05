@@ -92,6 +92,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems](https://api.semanticscholar.org/CorpusId:276781761)**
 - **[Multi-Agent Collaboration via Evolving Orchestration](https://openreview.net/pdf/9727f658d788c52f49f12ae4b230baf4cf0d4007.pdf)**
 - **[TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration](https://huggingface.co/papers/2601.04544)**
+- **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
 
 ## Application-Specific Multi-Agent Systems
 
