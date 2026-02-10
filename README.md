@@ -232,7 +232,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Greater than the Sum of its Parts: Exploring Social Influence of Multi-Agents](https://doi.org/10.1145/3706599.3719973)**
 - **[Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human–Agent Interactions](https://dl.acm.org/doi/pdf/10.1145/3757633)**
 - **[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://pub.sakana.ai/drq/)**
-
+- **[Distributional AGI Safety: Governance Trade-offs in Multi-Agent Systems Under Adversarial Pressure](https://github.com/swarm-ai-safety/swarm)**
 ## Workflow, Architecture & Agent Design
 
 - **[AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models](https://huggingface.co/papers/2403.15157)**
