@@ -180,6 +180,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610676)**
 - **[MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation](https://api.semanticscholar.org/CorpusId:274280893)**
 - **[ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise](https://api.semanticscholar.org/CorpusId:273654638)**
+- **[AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions](https://huggingface.co/papers/2602.06008)**
 
 ## Evaluation & Model Improvement
 
