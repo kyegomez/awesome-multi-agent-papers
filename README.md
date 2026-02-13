@@ -93,6 +93,8 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Multi-Agent Collaboration via Evolving Orchestration](https://openreview.net/pdf/9727f658d788c52f49f12ae4b230baf4cf0d4007.pdf)**
 - **[TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration](https://huggingface.co/papers/2601.04544)**
 - **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
+- **[AgentLeak: Quantifying and Benchmarking Data Leakage in LLM Agents](https://arxiv.org/pdf/2602.11510)**
+
 
 ## Application-Specific Multi-Agent Systems
 
