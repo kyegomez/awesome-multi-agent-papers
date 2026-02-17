@@ -74,6 +74,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[The Station: An Open-World Environment for AI-Driven Discovery](https://huggingface.co/papers/2511.06309)**
 - **[Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)**
 - **[RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents](https://arxiv.org/abs/2601.18130)**
+- **[Intelligent AI Delegation](https://huggingface.co/papers/2602.11865)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
