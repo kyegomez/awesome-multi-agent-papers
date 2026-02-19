@@ -95,6 +95,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Multi-Agent Collaboration via Evolving Orchestration](https://openreview.net/pdf/9727f658d788c52f49f12ae4b230baf4cf0d4007.pdf)**
 - **[TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration](https://huggingface.co/papers/2601.04544)**
 - **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
+- **[The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems](https://huggingface.co/papers/2602.15382)**
 
 ## Application-Specific Multi-Agent Systems
 
@@ -236,6 +237,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human–Agent Interactions](https://dl.acm.org/doi/pdf/10.1145/3757633)**
 - **[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://pub.sakana.ai/drq/)**
 - **[Distributional AGI Safety: Governance Trade-offs in Multi-Agent Systems Under Adversarial Pressure](https://github.com/swarm-ai-safety/swarm)**
+
 ## Workflow, Architecture & Agent Design
 
 - **[AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models](https://huggingface.co/papers/2403.15157)**
