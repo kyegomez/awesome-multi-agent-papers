@@ -345,3 +345,5 @@ Join the swarms community, the largest community of multi-agent researchers, eng
 |----------|-------------|------|
 | 💬 Discord | Live chat and community support | [Join Discord](https://discord.gg/EamjgSaEQf) |
 | 🐦 Twitter | Latest news and announcements | [@kyegomez](https://twitter.com/kyegomez) |
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
