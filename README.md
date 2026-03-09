@@ -98,6 +98,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration](https://huggingface.co/papers/2601.04544)**
 - **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
 - **[The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems](https://huggingface.co/papers/2602.15382)**
+- **[EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/pdf/2603.02766)**
 
 ## Application-Specific Multi-Agent Systems
 
