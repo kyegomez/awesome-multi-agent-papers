@@ -78,6 +78,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://huggingface.co/papers/2602.14299)**
 - **[Multi-agent cooperation through in-context co-player inference](https://huggingface.co/papers/2602.16301)**
 - **[SkillOrchestra: Learning to Route Agents via Skill Transfer](https://huggingface.co/papers/2602.19672)**
+- **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** --- [Implementation](https://github.com/EIT-EAST-Lab/C3)
 
 ## Multi-Agent Frameworks & Benchmarks
 
