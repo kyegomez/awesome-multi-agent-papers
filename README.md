@@ -18,13 +18,13 @@
 </p>
 
 
-This is an awesome list of the best multi-agent research papers compiled by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at Swarms is to research multi-agent systems, democratize them at scale, and enable their adoption in the world economy. [Join our Discord Now!](https://discord.gg/EamjgSaEQf)
+This is an awesome list of the best multi-agent research papers compiled by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at Swarms is to research multi-agent systems. [Join our Discord Now!](https://discord.gg/EamjgSaEQf)
 
 ---
 
 ## Format
 
-- [Paper Name] [Description:] [Link] 
+- [Paper Name] [Description] [Link] 
 
 ----
 
