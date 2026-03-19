@@ -19,13 +19,6 @@
     </picture>
   </a>
 
-  <a href="https://pytorch.org/">
-    <picture>
-      <source srcset="https://img.shields.io/badge/Built%20with-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" media="(prefers-color-scheme: dark)">
-      <img src="https://img.shields.io/badge/Built%20with-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    </picture>
-  </a>
-
   <a href="https://github.com/kyegomez/awesome-multi-agent-papers">
     <picture>
       <source srcset="https://img.shields.io/badge/Awesome%20Multi-Agent%20Papers-Repo-000000?style=for-the-badge&logo=github&logoColor=white" media="(prefers-color-scheme: dark)">
