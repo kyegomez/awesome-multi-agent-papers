@@ -320,6 +320,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 ## Finance
 
 - **[TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://arxiv.org/abs/2502.01506)**
+- **[HedgeAgents: A Balanced-aware Multi-agent Financial Trading System](https://arxiv.org/abs/2502.13165)**
 
 
 ## Agents for Research
