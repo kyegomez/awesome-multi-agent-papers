@@ -45,21 +45,18 @@
   <em>A compilation of the best multi-agent papers</em>
 </p>
 
-
-
-
 This is an awesome list of the best multi-agent research papers compiled by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at Swarms is to research multi-agent systems. [Join our Discord Now!](https://discord.gg/EamjgSaEQf)
 
 ---
 
 ## Format
 
-- [Paper Name] [Description] [Link] 
+- [Paper Name] [Description] [Link]
 
-----
-
+---
 
 ## Multi-Agent Collaboration & System Design
+
 - **[Thought Communication in Multiagent Collaboration](https://arxiv.org/pdf/2510.20733)**
 - **[MAS-Zero: Designing Multi-Agent Systems with Zero Supervision](https://mas-design.github.io/)**
 - **[K-Level Reasoning with Large Language Models](https://arxiv.org/pdf/2402.01521)**
@@ -112,6 +109,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 
 ## Multi-Agent Frameworks & Benchmarks
 
+- **[MASEval: Extending Multi-Agent Evaluation from Models to Systems (Python Multi-Agent Eval Library)](https://github.com/parameterlab/MASEval)** ([Documentation](https://maseval.readthedocs.io/en/stable/),[PyPI](https://pypi.org/project/maseval/), [Paper](https://arxiv.org/abs/2603.08835), [Code](https://github.com/parameterlab/MASEval))
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
@@ -134,6 +132,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 ## Application-Specific Multi-Agent Systems
 
 ### Software Engineering
+
 - **[Automated Unit Test Improvement using Large Language Models](https://arxiv.org/pdf/2402.09171.pdf)**
 - **[Experiential Co-Learning of Software-Developing Agents](https://arxiv.org/abs/2312.17025)**
 - **[ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924.pdf)**
@@ -153,9 +152,10 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Tailoring with Targeted Precision: Edit-Based Agents for Open-Domain Procedure Customization](https://api.semanticscholar.org/CorpusId:268231438)**
 - **[Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents](https://api.semanticscholar.org/CorpusId:273482697)**
 - **[Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)** A blog by Cursor
-- **[Towards self-driving codebases](https://cursor.com/blog/self-driving-codebases)** By Cursor 
+- **[Towards self-driving codebases](https://cursor.com/blog/self-driving-codebases)** By Cursor
 
 ### Healthcare & Medical
+
 - **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**
 - **[MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)**
 - **[Multi Agent based Medical Assistant for Edge Devices](https://arxiv.org/pdf/2503.05397)**
@@ -170,6 +170,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/pdf/2511.08151)**
 
 ### Data & ML
+
 - **[LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)**
 - **[Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/abs/2408.14484)**
 - **[Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining](https://huggingface.co/papers/2410.08102)**
@@ -178,9 +179,11 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[DataLab: A Unified Platform for LLM-Powered Business Intelligence](https://arxiv.org/abs/2412.02205)**
 
 ### Security
+
 - **[BreachSeek: A Multi-Agent Automated Penetration Tester](https://arxiv.org/abs/2409.03789)**
 
 ### Multimodal
+
 - **[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248)**
 - **[Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation](https://huggingface.co/papers/2406.01014)**
 - **[Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)**
@@ -195,6 +198,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://huggingface.co/papers/2512.20618)**
 
 ### Other Domains
+
 - **[Human-level play in Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)**
 - **[CulturePark: Boosting Cross-cultural Understanding in Large Language Models](https://arxiv.org/abs/2405.15145)**
 - **[Beyond Human Translation: Multi-Agent Collaboration for Translating Ultra-Long Literary Texts](https://arxiv.org/abs/2405.11804)**
@@ -352,7 +356,6 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://arxiv.org/abs/2502.01506)**
 - **[HedgeAgents: A Balanced-aware Multi-agent Financial Trading System](https://arxiv.org/abs/2502.13165)**
 
-
 ## Agents for Research
 
 - **[Towards Collaborative Autonomous Research](https://agentrxiv.github.io/)**
@@ -361,7 +364,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 
 - **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)**
 
-----
+---
 
 # Citations
 
