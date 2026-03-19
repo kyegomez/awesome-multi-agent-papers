@@ -3,19 +3,56 @@
     <h1>Awesome Multi-Agent Papers</h1>
   </a>
 </div>
+
+<p align="left">
+  <a href="https://twitter.com/swarms_corp">
+    <picture>
+      <source srcset="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" media="(prefers-color-scheme: dark)">
+      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </picture>
+  </a>
+
+  <a href="https://discord.gg/EamjgSaEQf">
+    <picture>
+      <source srcset="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" media="(prefers-color-scheme: dark)">
+      <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </picture>
+  </a>
+
+  <a href="https://pytorch.org/">
+    <picture>
+      <source srcset="https://img.shields.io/badge/Built%20with-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" media="(prefers-color-scheme: dark)">
+      <img src="https://img.shields.io/badge/Built%20with-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    </picture>
+  </a>
+
+  <a href="https://github.com/kyegomez/awesome-multi-agent-papers">
+    <picture>
+      <source srcset="https://img.shields.io/badge/Awesome%20Multi-Agent%20Papers-Repo-000000?style=for-the-badge&logo=github&logoColor=white" media="(prefers-color-scheme: dark)">
+      <img src="https://img.shields.io/badge/Awesome%20Multi-Agent%20Papers-Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Multi-Agent Papers">
+    </picture>
+  </a>
+
+  <a href="https://swarms.ai">
+    <picture>
+      <source srcset="https://img.shields.io/badge/Swarms-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" media="(prefers-color-scheme: dark)">
+      <img src="https://img.shields.io/badge/Swarms-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Swarms Website">
+    </picture>
+  </a>
+
+  <a href="https://github.com/kyegomez/swarms">
+    <picture>
+      <source srcset="https://img.shields.io/badge/Swarms-Framework-181717?style=for-the-badge&logo=github&logoColor=white" media="(prefers-color-scheme: dark)">
+      <img src="https://img.shields.io/badge/Swarms-Framework-181717?style=for-the-badge&logo=github&logoColor=white" alt="Swarms Framework">
+    </picture>
+  </a>
+</p>
+
 <p align="left">
   <em>A compilation of the best multi-agent papers</em>
 </p>
 
-<p align="left">
-<a href="https://twitter.com/swarms_corp/">🐦 Twitter</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://discord.gg/EamjgSaEQf">📢 Discord</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://swarms.ai">Swarms Website</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://github.com/kyegomez/swarms">📙 Framework</a>
-</p>
+
 
 
 This is an awesome list of the best multi-agent research papers compiled by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at Swarms is to research multi-agent systems. [Join our Discord Now!](https://discord.gg/EamjgSaEQf)
