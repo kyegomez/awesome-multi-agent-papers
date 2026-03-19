@@ -45,9 +45,6 @@
   <em>A compilation of the best multi-agent papers</em>
 </p>
 
-
-
-
 This is an awesome list of the best multi-agent research papers compiled by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at Swarms is to research multi-agent systems. [Join our Discord Now!](https://discord.gg/EamjgSaEQf)
 
 ---
@@ -56,9 +53,10 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 
 - [Paper Name] [Description] [Link]
 
-----
+---
 
 ## Multi-Agent Collaboration & System Design
+
 - **[Thought Communication in Multiagent Collaboration](https://arxiv.org/pdf/2510.20733)**
 - **[MAS-Zero: Designing Multi-Agent Systems with Zero Supervision](https://mas-design.github.io/)**
 - **[K-Level Reasoning with Large Language Models](https://arxiv.org/pdf/2402.01521)**
