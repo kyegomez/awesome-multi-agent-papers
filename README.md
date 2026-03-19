@@ -370,12 +370,3 @@ In the arxiv_bibtex.bib file, you can find the bibtex citations for all the pape
 # Contributing
 
 Have a multi-agent paper that isn’t on the list? We welcome your contributions! Please open a Pull Request (PR) to add new papers and help us maintain this comprehensive and up-to-date resource for the multi-agent research community. By contributing, you enable others—especially newcomers—to access the latest research in a single, centralized repository. Thank you for helping the community grow!
-
-# Community
-
-Join the swarms community, the largest community of multi-agent researchers, engineers, and builders in the world. We're committed to researching and advancing multi-agent systems. 
-
-| Platform | Description | Link |
-|----------|-------------|------|
-| 💬 Discord | Live chat and community support | [Join Discord](https://discord.gg/EamjgSaEQf) |
-| 🐦 Twitter | Latest news and announcements | [@kyegomez](https://twitter.com/kyegomez) |
