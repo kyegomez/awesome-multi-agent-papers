@@ -42,14 +42,10 @@
 </p>
 
 <p align="left">
-  <em>A compilation of the best multi-agent papers</em>
+  <em>
+    This is an awesome list of the best multi-agent research papers, compiled by the <a href="https://github.com/kyegomez/swarms">Swarms</a> Team. Our mission at Swarms is to research multi-agent systems. <a href="https://discord.gg/EamjgSaEQf">Join our Discord Now!</a>
+  </em>
 </p>
-
-
-
-
-This is an awesome list of the best multi-agent research papers compiled by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission at Swarms is to research multi-agent systems. [Join our Discord Now!](https://discord.gg/EamjgSaEQf)
-
 ---
 
 ## Format
@@ -109,6 +105,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Multi-agent cooperation through in-context co-player inference](https://huggingface.co/papers/2602.16301)**
 - **[SkillOrchestra: Learning to Route Agents via Skill Transfer](https://huggingface.co/papers/2602.19672)**
 - **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** --- [Implementation](https://github.com/EIT-EAST-Lab/C3)
+- **[Hyperagents](https://arxiv.org/abs/2603.19461)** — Introduces self-referential agents that unify a task agent and a meta agent into a single editable program, enabling metacognitive self-modification; extends the Darwin Gödel Machine to non-coding domains and demonstrates open-ended, self-accelerating improvement across diverse tasks. --- [GitHub](https://github.com/facebookresearch/Hyperagents)
 
 ## Multi-Agent Frameworks & Benchmarks
 
@@ -154,6 +151,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents](https://api.semanticscholar.org/CorpusId:273482697)**
 - **[Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)** A blog by Cursor
 - **[Towards self-driving codebases](https://cursor.com/blog/self-driving-codebases)** By Cursor 
+- **[Harness Design for Long-Running Application Development](https://www.anthropic.com/engineering/harness-design-long-running-apps)** — Anthropic engineering post describing a three-agent (planner, generator, evaluator) GAN-inspired harness for autonomous full-stack coding; introduces sprint contracts, context resets, and an iterative QA loop that drives outputs well beyond single-agent baselines.
 
 ### Healthcare & Medical
 - **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**
@@ -163,6 +161,7 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 - **[Sequential Diagnosis with Language Models](https://arxiv.org/pdf/2506.22405) ||Open-Source Implementation [Code Link](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator)**
 - **[Towards an AI co-scientist](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf)** --- [Implementation](https://github.com/The-Swarm-Corporation/AI-CoScientist)
 - **[The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9)**
+- **[Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment](https://arxiv.org/abs/2603.21597)** — Multi-agent AI system coordinating specialized agents for EHR, clinical notes, and medical imaging; synthesizes outputs into a clinician-facing dashboard with conversational interface; evaluated on 3 million patients across four healthcare systems, achieving AUROC 0.86 for dementia diagnosis and improving physician accuracy by 17.5 pp.
 - **[Evolving Diagnostic Agents in a Virtual Clinical Environment](https://huggingface.co/papers/2510.24654)**
 - **[MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://api.semanticscholar.org/CorpusId:269303028)**
 - **[Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics](https://api.semanticscholar.org/CorpusId:273098806)**
@@ -367,6 +366,38 @@ This is an awesome list of the best multi-agent research papers compiled by the 
 
 In the arxiv_bibtex.bib file, you can find the bibtex citations for all the papers in this repository.
 
+## Cite This List
+
+If you find this resource useful in your research, please cite it as follows:
+
+**BibTeX:**
+
+```bibtex
+@misc{gomez2024awesome,
+  author       = {Gomez, Kye},
+  title        = {Awesome Multi-Agent Papers: A Compilation of the Best Multi-Agent Research},
+  year         = {2024},
+  publisher    = {GitHub},
+  journal      = {GitHub Repository},
+  howpublished = {\url{https://github.com/kyegomez/awesome-multi-agent-papers}},
+  note         = {Maintained by the Swarms Team. Contact: kye@swarms.world}
+}
+```
+
+**APA:**
+
+> Gomez, K. (2024). *Awesome Multi-Agent Papers: A Compilation of the Best Multi-Agent Research*. GitHub. https://github.com/kyegomez/awesome-multi-agent-papers
+
+**MLA:**
+
+> Gomez, Kye. "Awesome Multi-Agent Papers: A Compilation of the Best Multi-Agent Research." *GitHub*, 2024, https://github.com/kyegomez/awesome-multi-agent-papers.
+
+For questions or collaborations, contact: [kye@swarms.world](mailto:kye@swarms.world)
+
 # Contributing
 
 Have a multi-agent paper that isn’t on the list? We welcome your contributions! Please open a Pull Request (PR) to add new papers and help us maintain this comprehensive and up-to-date resource for the multi-agent research community. By contributing, you enable others—especially newcomers—to access the latest research in a single, centralized repository. Thank you for helping the community grow!
+
+# License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
