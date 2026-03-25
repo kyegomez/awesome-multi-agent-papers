@@ -106,8 +106,7 @@
 - **[Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://huggingface.co/papers/2602.14299)**
 - **[Multi-agent cooperation through in-context co-player inference](https://huggingface.co/papers/2602.16301)**
 - **[SkillOrchestra: Learning to Route Agents via Skill Transfer](https://huggingface.co/papers/2602.19672)**
-- **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** --- [Implementation](https://github.com/EIT-EAST-Lab/C3)
-- **[Hyperagents](https://arxiv.org/abs/2603.19461)** — Introduces self-referential agents that unify a task agent and a meta agent into a single editable program, enabling metacognitive self-modification; extends the Darwin Gödel Machine to non-coding domains and demonstrates open-ended, self-accelerating improvement across diverse tasks. --- [GitHub](https://github.com/facebookresearch/Hyperagents)
+- **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** [GitHub](https://github.com/facebookresearch/Hyperagents)
 
 ## Multi-Agent Frameworks & Benchmarks
 
