@@ -46,6 +46,8 @@
     This is an awesome list of the best multi-agent research papers, compiled by the <a href="https://github.com/kyegomez/swarms">Swarms</a> Team. Our mission at Swarms is to research multi-agent systems. <a href="https://discord.gg/EamjgSaEQf">Join our Discord Now!</a>
   </em>
 </p>
+
+
 ---
 
 ## Format
