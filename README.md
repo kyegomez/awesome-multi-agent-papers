@@ -107,6 +107,7 @@
 - **[Multi-agent cooperation through in-context co-player inference](https://huggingface.co/papers/2602.16301)**
 - **[SkillOrchestra: Learning to Route Agents via Skill Transfer](https://huggingface.co/papers/2602.19672)**
 - **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** [GitHub](https://github.com/facebookresearch/Hyperagents)
+- **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://huggingface.co/papers/2604.01658)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
