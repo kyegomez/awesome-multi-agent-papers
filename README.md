@@ -109,6 +109,7 @@
 - **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** [GitHub](https://github.com/facebookresearch/Hyperagents)
 - **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://huggingface.co/papers/2604.01658)**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Production implementation of multi-agent orchestration: 49 Claude Code agents with task registry, quality gates, anti-duplication, and heartbeat monitoring. MIT licensed.
 ## Multi-Agent Frameworks & Benchmarks
 
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
