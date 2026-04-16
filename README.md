@@ -403,3 +403,7 @@ Have a multi-agent paper that isn’t on the list? We welcome your contributions
 # License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
+
+## Recent Additions
+
+- **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)** — Qu et al., arXiv 2026. Long-running multi-agent systems that self-evolve via shared persistent memory, asynchronous execution, and heartbeat-based interventions to drive open-ended discovery. [[project]](https://human-agent-society.github.io/CORAL/) [[code]](https://github.com/Human-Agent-Society/CORAL)
