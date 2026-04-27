@@ -109,6 +109,7 @@
 - **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** [GitHub](https://github.com/facebookresearch/Hyperagents)
 - **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://huggingface.co/papers/2604.01658)**
 - **[TRINITY: An Evolved LLM Coordinator](https://arxiv.org/abs/2512.04695)**
+- **[Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
