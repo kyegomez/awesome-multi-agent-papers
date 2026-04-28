@@ -58,6 +58,7 @@
 
 
 ## Multi-Agent Collaboration & System Design
+- **[MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks](https://arxiv.org/abs/2601.14652)**
 - **[Thought Communication in Multiagent Collaboration](https://arxiv.org/pdf/2510.20733)**
 - **[MAS-Zero: Designing Multi-Agent Systems with Zero Supervision](https://arxiv.org/pdf/2505.14996)**
 - **[K-Level Reasoning with Large Language Models](https://arxiv.org/pdf/2402.01521)**
@@ -113,7 +114,7 @@
 - **[From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](https://huggingface.co/papers/2604.22446)**
 
 ## Multi-Agent Frameworks & Benchmarks
-
+- **[MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks](https://arxiv.org/abs/2601.14652)**
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
