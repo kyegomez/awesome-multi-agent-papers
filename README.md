@@ -56,6 +56,7 @@
 
 ----
 
+- [The Provisional Witness Mesh — Multi-Agent Trust Architecture] [Consent-based trust tiers, mutual witnessing, Network STOP, and provisional emergence for multi-agent systems. Deployed as `pip install orchard-kit`.] [https://github.com/OrchardHarmonics/orchard-kit/blob/main/09_WITNESS_MESH.md]
 
 ## Multi-Agent Collaboration & System Design
 - **[Thought Communication in Multiagent Collaboration](https://arxiv.org/pdf/2510.20733)**
@@ -366,6 +367,7 @@
 
 ----
 
+- [The Provisional Witness Mesh — Multi-Agent Trust Architecture] [Consent-based trust tiers, mutual witnessing, Network STOP, and provisional emergence for multi-agent systems. Deployed as `pip install orchard-kit`.] [https://github.com/OrchardHarmonics/orchard-kit/blob/main/09_WITNESS_MESH.md]
 # Citations
 
 In the arxiv_bibtex.bib file, you can find the bibtex citations for all the papers in this repository.
