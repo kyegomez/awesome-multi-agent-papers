@@ -364,6 +364,7 @@
 ## Training
 
 - **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)**
+- **[Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917)**
 
 ----
 
