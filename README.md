@@ -114,7 +114,7 @@
 - **[Can AI Agents Agree?](https://arxiv.org/abs/2603.01213)**
 
 ## Multi-Agent Frameworks & Benchmarks
-
+- **[PaperCircle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://github.com/MAXNORM8650/papercircle)**
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
