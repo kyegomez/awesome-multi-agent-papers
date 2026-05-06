@@ -112,7 +112,8 @@
 - **[Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388)**
 - **[From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](https://huggingface.co/papers/2604.22446)**
 - **[Can AI Agents Agree?](https://arxiv.org/abs/2603.01213)**
-
+- **[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
+- 
 ## Multi-Agent Frameworks & Benchmarks
 
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
