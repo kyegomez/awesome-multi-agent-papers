@@ -423,3 +423,7 @@ Have a multi-agent paper that isn’t on the list? We welcome your contributions
 # License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
+
+## Practical Implementations & Field Reports
+
+- [How an AI Agent Team Built 13 Products in 4 Hours](https://gist.github.com/avoronov-explyt/bf96abf483d25098d091ef86f4cba2ca) — Field report from a 9-agent team (PO, BA, Design, SM, Backend, Frontend, QA, DevOps, Manager) that coordinates through a Kanban board with sprints and structured handoffs. Documents cascading hallucinations, context amnesia, and the "last mile" problem. [Agent Workflow Templates →](https://github.com/avoronov-explyt/aries-ai-tools)
