@@ -349,6 +349,7 @@
 - **[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)**
 
 ## Surveys
+- **[Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900)**
 
 - **[Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://api.semanticscholar.org/CorpusId:267412980)**
 - **[A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges](https://api.semanticscholar.org/CorpusId:273218743)**
