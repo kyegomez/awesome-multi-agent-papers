@@ -267,6 +267,9 @@
 
 ## Social Simulation & Agent Societies
 
+- **[EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation](https://edumirror.net/assets/EduMirror.pdf)**
+- **[Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions](https://arxiv.org/abs/2603.13890)**
+- **[How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation](https://arxiv.org/abs/2603.13876)**
 - **[TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://arxiv.org/abs/2502.01506)**
 - **[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)**
 - **[SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents](https://arxiv.org/pdf/2403.08715.pdf)**
@@ -284,6 +287,7 @@
 - **[OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581)**
 - **[LLM-Based Social Simulations Require a Boundary](https://arxiv.org/pdf/2506.19806)**
 - **[Social World Models](https://arxiv.org/abs/2509.00559)**
+- **[Why Are We Moral? An LLM-based Agent Simulation Approach to Study Moral Evolution](https://arxiv.org/abs/2509.17703)**
 - **[Simulating Human-like Daily Activities with Desire-driven Autonomy](https://arxiv.org/abs/2412.06435)**
 - **[Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://aclanthology.org/2025.emnlp-main.1562/)**
 - **[Greater than the Sum of its Parts: Exploring Social Influence of Multi-Agents](https://doi.org/10.1145/3706599.3719973)**
