@@ -201,6 +201,10 @@
 - **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://huggingface.co/papers/2605.28816)**
 - **[Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation](https://huggingface.co/papers/2605.29861)**
 - **[MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472)**
+- **[Pose-Assisted Multi-Camera Collaboration for Active Object Tracking](https://arxiv.org/abs/2001.05161)**
+- **[Towards Distraction-Robust Active Visual Tracking](https://arxiv.org/abs/2106.10110)**
+- **[AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking](https://doi.org/10.1109/TPAMI.2019.2952590)**
+- **[AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking](https://openreview.net/forum?id=HkgYmhR9KX)**
 - **[PC-Agent: A Hierarchical Multi-Agent Framework for Complex Task Automation on PC](https://arxiv.org/abs/2502.14282)**
 - **[Improving Large Vision and Language Models by Learning from a Panel of Peers](https://huggingface.co/papers/2509.01610)**
 - **[PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images](https://huggingface.co/papers/2509.25185)**
@@ -338,6 +342,8 @@
 
 ## Alignment
 
+- **[Communication-Efficient Desire Alignment for Proactive Embodied Human-Agent Interaction](https://arxiv.org/abs/2505.22503)**
+- **[Simple Role Assignment is Extraordinarily Effective for Safety Alignment](https://arxiv.org/abs/2602.00061)**
 - **[The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240)**
 - **[MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization](https://api.semanticscholar.org/CorpusId:273233831)**
 
@@ -348,6 +354,7 @@
 - **[LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions](https://api.semanticscholar.org/CorpusId:269921354)**
 - **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://huggingface.co/papers/2601.09667)**
 - **[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)**
+- **[Fast Peer Adaptation with Context-aware Exploration](https://arxiv.org/abs/2402.02468)**
 
 ## Surveys
 
