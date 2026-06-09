@@ -290,6 +290,7 @@
 - **[Multi-Agents Are Social Groups: Investigating Social Influence of Multiple Agents in Human–Agent Interactions](https://dl.acm.org/doi/pdf/10.1145/3757633)**
 - **[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://pub.sakana.ai/drq/)**
 - **[Distributional AGI Safety: Governance Trade-offs in Multi-Agent Systems Under Adversarial Pressure](https://github.com/swarm-ai-safety/swarm)**
+- **[Agentopia: Long-Term Life Simulation and Learning in Agent Societies](https://arxiv.org/abs/2606.07513)**
 
 ## Workflow, Architecture & Agent Design
 
