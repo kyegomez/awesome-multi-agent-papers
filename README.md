@@ -120,6 +120,7 @@
 - **[When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems](https://huggingface.co/papers/2605.30102)**
 - **[Streaming Communication in Multi-Agent Reasoning](https://huggingface.co/papers/2606.05158)**
 - **[What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://huggingface.co/papers/2606.05304)**
+- **[SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://arxiv.org/abs/2606.09730)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
