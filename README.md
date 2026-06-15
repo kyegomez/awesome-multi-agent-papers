@@ -267,6 +267,9 @@
 - **[Reliable Decision-Making for Multi-Agent LLM Systems](https://multiagents.org/2025_artifacts/reliable_decision_making_for_multi_agent_llm_systems.pdf)**
 - **[Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](https://api.semanticscholar.org/CorpusId:276647196)**
 - **[AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://api.semanticscholar.org/CorpusId:268297202)**
+- **[AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation](https://arxiv.org/abs/2601.00930)**
+- **[Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation](https://arxiv.org/abs/2604.09549)**
+- **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)**
 
 ## Social Simulation & Agent Societies
 
@@ -294,6 +297,7 @@
 - **[Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://pub.sakana.ai/drq/)**
 - **[Distributional AGI Safety: Governance Trade-offs in Multi-Agent Systems Under Adversarial Pressure](https://github.com/swarm-ai-safety/swarm)**
 - **[Agentopia: Long-Term Life Simulation and Learning in Agent Societies](https://arxiv.org/abs/2606.07513)**
+- **[CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)**
 
 ## Workflow, Architecture & Agent Design
 
