@@ -197,6 +197,7 @@
 - **[Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems](https://huggingface.co/papers/2605.27766)**
 
 ### Multimodal
+- **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/pdf/2606.05697)**
 - **[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248)**
 - **[Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation](https://huggingface.co/papers/2406.01014)**
 - **[Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)**
