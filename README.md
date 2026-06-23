@@ -122,6 +122,7 @@
 - **[What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems](https://huggingface.co/papers/2606.05304)**
 - **[SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://arxiv.org/abs/2606.09730)**
 - **[Decentralized Multi-Agent Systems with Shared Context](https://arxiv.org/abs/2606.10662)**
+- **[SRAO Framework: Systematic Methodology from Domain Modeling to Agent Orchestration](https://github.com/beixuan577/SRAO-Framework)** A 5-stage systematic approach for building multi-agent workflow orchestration across industries. Includes domain modeling (SRM), 6-category agent taxonomy, capability graphs, and DAG-based workflow orchestration with Temporal/Prefect/Airflow templates. [GitHub](https://github.com/beixuan577/SRAO-Framework)
 
 ## Multi-Agent Frameworks & Benchmarks
 
