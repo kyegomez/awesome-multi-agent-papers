@@ -98,6 +98,7 @@
 - **[Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10336211)**
 - **[A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/pdf/2504.12322)**
 - **[Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://kjha02.github.io/publication/cross-env-coop)**
+- **[ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind](https://openreview.net/forum?id=M3tw78MH1Bk)**
 - **[Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation](https://arxiv.org/abs/2511.02303)**
 - **[The Station: An Open-World Environment for AI-Driven Discovery](https://huggingface.co/papers/2511.06309)**
 - **[Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)**
@@ -143,6 +144,7 @@
 - **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
 - **[The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems](https://huggingface.co/papers/2602.15382)**
 - **[EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/pdf/2603.02766)**
+- **[MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control](https://openreview.net/pdf?id=SyoUVEyzJbE)**
 
 ## Application-Specific Multi-Agent Systems
 
@@ -204,6 +206,7 @@
 - **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://huggingface.co/papers/2605.28816)**
 - **[Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation](https://huggingface.co/papers/2605.29861)**
 - **[MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472)**
+- **[Proactive Multi-Camera Collaboration for 3D Human Pose Estimation](https://openreview.net/pdf?id=CPIy9TWFYBG)**
 - **[PC-Agent: A Hierarchical Multi-Agent Framework for Complex Task Automation on PC](https://arxiv.org/abs/2502.14282)**
 - **[Improving Large Vision and Language Models by Learning from a Panel of Peers](https://huggingface.co/papers/2509.01610)**
 - **[PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images](https://huggingface.co/papers/2509.25185)**
@@ -353,6 +356,7 @@
 - **[LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions](https://api.semanticscholar.org/CorpusId:269921354)**
 - **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://huggingface.co/papers/2601.09667)**
 - **[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)**
+- **[Learning Multi-Agent Coordination for Enhancing Target Coverage in Directional Sensor Networks](https://proceedings.neurips.cc/paper/2020/file/7250eb93b3c18cc9daa29cf58af7a004-Paper.pdf)**
 
 ## Surveys
 
