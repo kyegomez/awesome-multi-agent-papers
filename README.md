@@ -339,6 +339,7 @@
 - **[ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence](https://huggingface.co/papers/2605.26340)**
 - **[AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](https://huggingface.co/papers/2605.28655)**
 - **[The AI Scientist: The world's first AI system for automating scientific research](https://arxiv.org/abs/2408.06292)**
+- **[Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark](https://huggingface.co/papers/2606.18648)**
 
 ## Alignment
 
