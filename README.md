@@ -148,6 +148,8 @@
 ## Application-Specific Multi-Agent Systems
 
 ### Software Engineering
+
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system orchestrating dozens of coding-agent CLIs with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first, open-source.
 - **[Automated Unit Test Improvement using Large Language Models](https://arxiv.org/pdf/2402.09171.pdf)**
 - **[Experiential Co-Learning of Software-Developing Agents](https://arxiv.org/abs/2312.17025)**
 - **[ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924.pdf)**
