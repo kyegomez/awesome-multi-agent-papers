@@ -123,6 +123,7 @@
 - **[SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://arxiv.org/abs/2606.09730)**
 - **[Decentralized Multi-Agent Systems with Shared Context](https://arxiv.org/abs/2606.10662)**
 - **[Sakana Fugu Technical Report](https://arxiv.org/abs/2606.21228)**
+- **[A Technical Taxonomy of LLM Agent Communication Protocols](https://arxiv.org/abs/2606.19135)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
