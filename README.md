@@ -394,6 +394,10 @@
 
 In the arxiv_bibtex.bib file, you can find the bibtex citations for all the papers in this repository.
 
+## Tools
+
+- [SuperCompress](https://supercompress.vercel.app) - Learned prompt compression that reduces LLM token costs by ~65% using a ~5K-param CPU policy (~60ms latency). Open-source (MIT).
+
 ## Cite This List
 
 If you find this resource useful in your research, please cite it as follows:
