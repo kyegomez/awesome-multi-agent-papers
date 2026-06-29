@@ -431,3 +431,7 @@ Have a multi-agent paper that isn’t on the list? We welcome your contributions
 # License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
+
+## Directories
+
+- [OpenRuna agents hub](https://www.openruna.com/hubs/ai-agents) — Searchable graph of 240+ AI agents with typed links to tools, prompts, and workflows.
