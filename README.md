@@ -237,6 +237,8 @@
 - **[Enhancing Supermarket Robot Interaction: A Multi-Level LLM Conversational Interface for Handling Diverse Customer Intents](https://api.semanticscholar.org/CorpusId:270560396)**
 - **[Challenges Faced by Large Language Models in Solving Multi-Agent Flocking](https://api.semanticscholar.org/CorpusId:269004483)**
 - **[Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610676)**
+- **[Empowering Multi-Robot Cooperation via Sequential World Models](https://arxiv.org/abs/2509.13095)**
+- **[Learning and Planning Multi-Agent Tasks via an MoE-based World Model](https://openreview.net/pdf?id=fi24ry0BX5)**
 - **[MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation](https://api.semanticscholar.org/CorpusId:274280893)**
 - **[ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise](https://api.semanticscholar.org/CorpusId:273654638)**
 - **[AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions](https://huggingface.co/papers/2602.06008)**
