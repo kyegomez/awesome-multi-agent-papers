@@ -134,6 +134,7 @@
 - **[AgentClinic: A Multimodal Agent Benchmark for AI in Clinical Environments](https://arxiv.org/pdf/2405.07960)**
 - **[MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents](https://arxiv.org/abs/2503.01935)**
 - **[TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)**
+- **[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523)** — An open benchmark for browser agents on real-world online tasks, with isolated runs and reproducible browser-action, screenshot, HTTP, and agent-message traces. [[project page](https://claw-bench.com/)] [[code](https://github.com/TIGER-AI-Lab/ClawBench)]
 - **[BoxingGym: Benchmarking Progress in Automated Experimental Design](https://arxiv.org/abs/2501.01540)**
 - **[Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence](https://arxiv.org/abs/2508.20019)**
 - **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](https://huggingface.co/papers/2510.08529)**
