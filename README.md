@@ -130,6 +130,7 @@
 
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
+- **[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523)** — A live-web benchmark for browser and computer-use agents, with 283 tasks across 163 websites and replayable execution evidence.
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
 - **[AgentClinic: A Multimodal Agent Benchmark for AI in Clinical Environments](https://arxiv.org/pdf/2405.07960)**
 - **[MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents](https://arxiv.org/abs/2503.01935)**
