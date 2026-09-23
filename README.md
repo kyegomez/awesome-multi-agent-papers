@@ -202,6 +202,7 @@
 - Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems [Link](https://www.alphaxiv.org/abs/2608.10218)
 
 ### Multimodal
+- **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/pdf/2606.05697)**
 - **[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248)**
 - **[Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation](https://huggingface.co/papers/2406.01014)**
 - **[Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615)**
