@@ -126,6 +126,7 @@
 - **[A Technical Taxonomy of LLM Agent Communication Protocols](https://arxiv.org/abs/2606.19135)**
 - **[Will Scaling Improve Social Simulation with LLMs?](https://arxiv.org/abs/2607.02464)**
 - **[Agensh: Scaling Organizational Intelligence to 1,024 Agents](https://huggingface.co/papers/2609.26781)**
+- **[Self-Organizing Agent Teams Learn to Reason Together](https://www.alphaxiv.org/abs/2609.22682)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
