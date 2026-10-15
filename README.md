@@ -127,6 +127,7 @@
 - **[Will Scaling Improve Social Simulation with LLMs?](https://arxiv.org/abs/2607.02464)**
 - **[Agensh: Scaling Organizational Intelligence to 1,024 Agents](https://huggingface.co/papers/2609.26781)**
 - **[Self-Organizing Agent Teams Learn to Reason Together](https://www.alphaxiv.org/abs/2609.22682)**
+- **[Agent Sociodrama: Social-Dynamics-Guided Persona Recasting for LLM Agent Teams](https://arxiv.org/pdf/2610.15788)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
