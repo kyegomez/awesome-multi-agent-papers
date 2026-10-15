@@ -130,7 +130,7 @@
 - **[Agent Sociodrama: Social-Dynamics-Guided Persona Recasting for LLM Agent Teams](https://arxiv.org/pdf/2610.15788)**
 
 ## Multi-Agent Frameworks & Benchmarks
-
+- **[PaperCircle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://github.com/MAXNORM8650/papercircle)**
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
