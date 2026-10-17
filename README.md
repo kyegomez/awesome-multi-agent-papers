@@ -370,6 +370,7 @@
 - **[LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions](https://api.semanticscholar.org/CorpusId:269921354)**
 - **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://huggingface.co/papers/2601.09667)**
 - **[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)**
+- **[Sustainable Smart Grid Resilience and Renewable Integration Using Multi-Agent Reinforcement Learning](https://www.mdpi.com/2071-1050/18/20/10574)** ([DOI](https://doi.org/10.3390/su182010574), [Code](https://github.com/mahmoudsajjadi/Smart-Grid-Resilience-MARL)) - *MDPI Sustainability 2026*
 
 ## Surveys
 
@@ -404,6 +405,7 @@
 
 - **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)**
 - **[Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917)**
+- **[Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning](https://doi.org/10.1109/ICDCS60910.2024.00062)** ([Code](https://github.com/mahmoudsajjadi/ComDML)) - *IEEE ICDCS 2024*
 
 ----
 
