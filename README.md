@@ -278,6 +278,7 @@
 - **[Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation](https://arxiv.org/abs/2604.09549)**
 - **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)**
 - **[Recursive Self-Improvement through Multi-Agent Self-Supervision](https://arxiv.org/abs/2610.12176)**
+- **[Learning Self-Orchestration in Decentralized Agent Swarms](https://huggingface.co/papers/2610.22322)**
 
 ## Social Simulation & Agent Societies
 
