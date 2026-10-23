@@ -385,6 +385,7 @@
 - **[Multi-Agent Coordination across Diverse Applications: A Survey](https://api.semanticscholar.org/CorpusId:276482652)**
 - **[LLM-based Multi-Agent Systems: Techniques and Business Perspectives](https://api.semanticscholar.org/CorpusId:274165614)**
 - **[Small LLMs Are Weak Tool Learners: A Multi-LLM Agent](https://www.aclanthology.org/2024.emnlp-main.929.pdf)**
+- **[LLM Agents: A Survey](https://www.preprints.org/manuscript/202608.0265/v1)**
 
 ## Others
 
