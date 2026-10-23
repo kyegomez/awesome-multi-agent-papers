@@ -174,6 +174,7 @@
 - **[Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)** A blog by Cursor
 - **[Towards self-driving codebases](https://cursor.com/blog/self-driving-codebases)** By Cursor 
 - **[Harness Design for Long-Running Application Development](https://www.anthropic.com/engineering/harness-design-long-running-apps)**
+- **[World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds](https://arxiv.org/pdf/2610.24061)**
 
 ### Healthcare & Medical
 - **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**
