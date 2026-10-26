@@ -149,6 +149,7 @@
 - **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
 - **[The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems](https://huggingface.co/papers/2602.15382)**
 - **[EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/pdf/2603.02766)**
+- **[Who Presses the Button? Pressure, Not Framing or the Human Cost, Drives Nuclear Escalation in Language-Model Agents](https://doi.org/10.5281/zenodo.23452303)**
 
 ## Application-Specific Multi-Agent Systems
 
