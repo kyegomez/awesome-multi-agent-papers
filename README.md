@@ -149,6 +149,7 @@
 - **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
 - **[The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems](https://huggingface.co/papers/2602.15382)**
 - **[EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/pdf/2603.02766)**
+- **[MAS-Lab: A Specification-Driven Validation Framework for Reliable Multi-Agent Systems](https://arxiv.org/abs/2606.30546)**
 
 ## Application-Specific Multi-Agent Systems
 
