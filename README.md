@@ -100,7 +100,7 @@
 - **[Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://kjha02.github.io/publication/cross-env-coop)**
 - **[Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation](https://arxiv.org/abs/2511.02303)**
 - **[The Station: An Open-World Environment for AI-Driven Discovery](https://huggingface.co/papers/2511.06309)**
-- **[Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)**
+- **[Capable language models can outgrow the benefits of collaboration](https://www.nature.com/articles/s42256-026-01268-y)** [arXiv](https://arxiv.org/abs/2512.08296)
 - **[RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents](https://arxiv.org/abs/2601.18130)**
 - **[Intelligent AI Delegation](https://huggingface.co/papers/2602.11865)**
 - **[Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://huggingface.co/papers/2602.14299)**
@@ -131,6 +131,8 @@
 
 ## Multi-Agent Frameworks & Benchmarks
 
+- **[TeamBench: Evaluating Agent Coordination under Enforced Role Separation](https://arxiv.org/abs/2605.07073)**
+- **[TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information](https://arxiv.org/abs/2610.37571)**
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
 - **[Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)**
@@ -177,6 +179,7 @@
 - **[World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds](https://arxiv.org/pdf/2610.24061)**
 
 ### Healthcare & Medical
+- **[Tiered Agentic Oversight: A Hierarchical Multi-Agent System for Healthcare Safety](https://arxiv.org/abs/2506.12482)**
 - **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**
 - **[MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)**
 - **[Multi Agent based Medical Assistant for Edge Devices](https://arxiv.org/pdf/2503.05397)**
@@ -192,6 +195,7 @@
 - **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/pdf/2511.08151)**
 
 ### Data & ML
+- **[An AI Co-Data-Scientist for Prioritizing Candidate Biomarkers from Wearable Sensor Data](https://arxiv.org/abs/2604.14615)**
 - **[LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)**
 - **[Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/abs/2408.14484)**
 - **[Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining](https://huggingface.co/papers/2410.08102)**
