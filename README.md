@@ -149,6 +149,7 @@
 - **[Context Learning for Multi-Agent Discussion](https://huggingface.co/papers/2602.02350)**
 - **[The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems](https://huggingface.co/papers/2602.15382)**
 - **[EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/pdf/2603.02766)**
+- **[Measuring AI Agents as Teammates with Collaborative Intelligence](https://arxiv.org/abs/2611.02633)** [GitHub](https://github.com/zou-group/collaborative-intelligence)
 
 ## Application-Specific Multi-Agent Systems
 
