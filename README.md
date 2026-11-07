@@ -56,7 +56,7 @@
 
 ## Format
 
-- [Paper Name] [Description] [Link] 
+- **[Paper Title](https://arxiv.org/abs/XXXX.XXXXX)** 
 
 ----
 
@@ -452,7 +452,7 @@ For questions or collaborations, contact: [kye@swarms.world](mailto:kye@swarms.w
 
 # Contributing
 
-Have a multi-agent paper that isn’t on the list? We welcome your contributions! Please open a Pull Request (PR) to add new papers and help us maintain this comprehensive and up-to-date resource for the multi-agent research community. By contributing, you enable others—especially newcomers—to access the latest research in a single, centralized repository. Thank you for helping the community grow!
+Have a multi-agent paper that isn't on the list? We welcome your contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on format, section placement, and what qualifies.
 
 # License
 
