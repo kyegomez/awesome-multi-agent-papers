@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Awesome Multi-Agent" width="100%">
+</p>
+
 <div align="left">
   <a href="https://swarms.world">
     <h1>Awesome Multi-Agent Papers</h1>

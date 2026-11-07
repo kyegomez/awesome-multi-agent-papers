@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400">
+  <rect width="1600" height="400" fill="#F7F5F0"/>
+  <g stroke="#1A1A1A" stroke-width="5" stroke-linecap="round">
+    <line x1="250" y1="200" x2="250" y2="105"/>
+    <line x1="250" y1="200" x2="332" y2="152"/>
+    <line x1="250" y1="200" x2="332" y2="248"/>
+    <line x1="250" y1="200" x2="250" y2="295"/>
+    <line x1="250" y1="200" x2="168" y2="248"/>
+    <line x1="250" y1="200" x2="168" y2="152"/>
+    <g stroke-width="3" opacity="0.35">
+      <line x1="250" y1="105" x2="332" y2="152"/><line x1="332" y1="152" x2="332" y2="248"/>
+      <line x1="332" y1="248" x2="250" y2="295"/><line x1="250" y1="295" x2="168" y2="248"/>
+      <line x1="168" y1="248" x2="168" y2="152"/><line x1="168" y1="152" x2="250" y2="105"/>
+    </g>
+  </g>
+  <g fill="#1A1A1A">
+    <circle cx="250" cy="105" r="17"/><circle cx="332" cy="152" r="17"/>
+    <circle cx="332" cy="248" r="17"/><circle cx="250" cy="295" r="17"/>
+    <circle cx="168" cy="248" r="17"/><circle cx="168" cy="152" r="17"/>
+  </g>
+  <circle cx="250" cy="200" r="30" fill="#E8572A"/>
+  <line x1="430" y1="110" x2="430" y2="290" stroke="#1A1A1A" stroke-width="2" opacity="0.15"/>
+  <text x="490" y="222" font-family="Inter, 'DejaVu Sans', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#1A1A1A" letter-spacing="-2">Awesome Multi-Agent</text>
+  <text x="494" y="282" font-family="Inter, 'DejaVu Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#6B6B6B">A curated list of multi-agent &amp; swarm research papers</text>
+</svg>
