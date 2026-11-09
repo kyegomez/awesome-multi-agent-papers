@@ -56,7 +56,7 @@
 
 ## Format
 
-- **[Paper Title](https://arxiv.org/abs/XXXX.XXXXX)** 
+- [Title][Link]
 
 ----
 
