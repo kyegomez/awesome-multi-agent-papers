@@ -159,6 +159,7 @@
 - **[EvoSkill: Automated Skill Discovery for Multi-Agent Systems](https://arxiv.org/pdf/2603.02766)**
 - **[Measuring AI Agents as Teammates with Collaborative Intelligence](https://arxiv.org/abs/2611.02633)** [GitHub](https://github.com/zou-group/collaborative-intelligence)
 - **[MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads](https://arxiv.org/abs/2610.40293)** [GitHub](https://github.com/ShengxuanQiu/MAServeBench)
+- **[Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124)**
 
 ## Application-Specific Multi-Agent Systems
 
