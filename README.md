@@ -201,6 +201,7 @@
 - **[Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics](https://api.semanticscholar.org/CorpusId:273098806)**
 - **[MADD: Multi-Agent Drug Discovery Orchestra](https://huggingface.co/papers/2511.08217)**
 - **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/pdf/2511.08151)**
+- **[Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care](https://arxiv.org/abs/2606.31036)**
 
 ### Data & ML
 - **[LAMBDA: A Large Model Based Data Agent](https://arxiv.org/abs/2407.17535)**
