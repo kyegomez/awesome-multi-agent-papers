@@ -137,6 +137,7 @@
 - **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483)** [GitHub](https://github.com/Qile-J/SwarmEvolve)
 - **[AgentBaton: Efficient Model Collaboration in Agentic Tasks](https://arxiv.org/abs/2610.35959)**
 - **[Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275)**
+- **[TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2611.02810)** [GitHub](https://github.com/yingtaoren/TRIO)
 
 ## Multi-Agent Frameworks & Benchmarks
 
