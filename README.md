@@ -418,6 +418,7 @@
 
 - **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)**
 - **[Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917)**
+- **[NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757)** [GitHub](https://github.com/haoranlustat/NeuroMAS)
 
 ----
 
