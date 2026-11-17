@@ -160,6 +160,7 @@
 - **[Measuring AI Agents as Teammates with Collaborative Intelligence](https://arxiv.org/abs/2611.02633)** [GitHub](https://github.com/zou-group/collaborative-intelligence)
 - **[MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads](https://arxiv.org/abs/2610.40293)** [GitHub](https://github.com/ShengxuanQiu/MAServeBench)
 - **[Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124)**
+- **[MIRIX-2.0: Multi-Agent Memory System](https://arxiv.org/abs/2611.12068)** [GitHub](https://github.com/Mirix-AI/MIRIX)
 
 ## Application-Specific Multi-Agent Systems
 
@@ -376,6 +377,7 @@
 
 - **[The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](https://arxiv.org/abs/2510.08240)**
 - **[MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization](https://api.semanticscholar.org/CorpusId:273233831)**
+- **[Aligning AI Teams](https://arxiv.org/abs/2611.17820)** [GitHub](https://github.com/safety-research/aligning-ai-teams)
 
 ## Reinforcement Learning
 
