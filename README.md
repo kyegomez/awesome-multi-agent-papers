@@ -136,6 +136,7 @@
 - **[EvoTeam: Multi-Agent Collaboration via Evolving Teams](https://arxiv.org/abs/2610.39813)** [GitHub](https://github.com/DEEP-JLU/EvoTeam)
 - **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483)** [GitHub](https://github.com/Qile-J/SwarmEvolve)
 - **[AgentBaton: Efficient Model Collaboration in Agentic Tasks](https://arxiv.org/abs/2610.35959)**
+- **[Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
