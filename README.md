@@ -140,6 +140,7 @@
 
 ## Multi-Agent Frameworks & Benchmarks
 
+- **[Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development](https://arxiv.org/abs/2611.24154)**
 - **[SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations](https://arxiv.org/abs/2611.20218)**
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
 - **[AgentGym: Evolving Large Language Model-based Agents across Diverse Environments](https://huggingface.co/papers/2406.04151)**
