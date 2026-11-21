@@ -390,6 +390,7 @@
 - **[LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions](https://api.semanticscholar.org/CorpusId:269921354)**
 - **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://huggingface.co/papers/2601.09667)**
 - **[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)**
+- **[MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](https://arxiv.org/abs/2610.23234)**
 
 ## Surveys
 
