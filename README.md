@@ -296,6 +296,7 @@
 - **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)**
 - **[Recursive Self-Improvement through Multi-Agent Self-Supervision](https://arxiv.org/abs/2610.12176)**
 - **[Learning Self-Orchestration in Decentralized Agent Swarms](https://huggingface.co/papers/2610.22322)**
+- **[AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](https://arxiv.org/abs/2611.26613)**
 
 ## Social Simulation & Agent Societies
 
@@ -366,6 +367,7 @@
 - **[PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback](https://arxiv.org/pdf/2502.00988.pdf)**
 - **[Enhancing Anomaly Detection in Financial Markets with an LLM-based Multi-Agent Framework](https://arxiv.org/pdf/2403.19735.pdf)**
 - **[CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems](https://arxiv.org/abs/2610.34722)**
+- **[Intent Contracts: Taking Tools Away from Agents](https://arxiv.org/abs/2611.24025)**
 
 ## Science
 
