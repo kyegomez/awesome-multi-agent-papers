@@ -164,6 +164,8 @@
 - **[MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads](https://arxiv.org/abs/2610.40293)** [GitHub](https://github.com/ShengxuanQiu/MAServeBench)
 - **[Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124)**
 - **[MIRIX-2.0: Multi-Agent Memory System](https://arxiv.org/abs/2611.12068)** [GitHub](https://github.com/Mirix-AI/MIRIX)
+- **[GameAnything: From Any Inspirations to Playable Game Worlds](https://arxiv.org/abs/2611.29238)**
+- **[Wactorz: Self-Writing LLM Agents That Discover, Repair, and Migrate at the Edge](https://arxiv.org/abs/2611.29619)**
 
 ## Application-Specific Multi-Agent Systems
 
@@ -366,6 +368,7 @@
 - **[PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback](https://arxiv.org/pdf/2502.00988.pdf)**
 - **[Enhancing Anomaly Detection in Financial Markets with an LLM-based Multi-Agent Framework](https://arxiv.org/pdf/2403.19735.pdf)**
 - **[CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems](https://arxiv.org/abs/2610.34722)**
+- **[Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation](https://arxiv.org/abs/2611.27689)**
 
 ## Science
 
