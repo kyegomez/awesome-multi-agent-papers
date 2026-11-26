@@ -260,6 +260,7 @@
 - **[MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation](https://api.semanticscholar.org/CorpusId:274280893)**
 - **[ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise](https://api.semanticscholar.org/CorpusId:273654638)**
 - **[AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions](https://huggingface.co/papers/2602.06008)**
+- **[ACAP: Asynchronous Coding Agents for Efficient Robot Control](https://arxiv.org/abs/2611.31205)**
 
 ## Evaluation & Model Improvement
 
