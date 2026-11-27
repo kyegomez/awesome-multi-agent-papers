@@ -137,6 +137,7 @@
 - **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483)** [GitHub](https://github.com/Qile-J/SwarmEvolve)
 - **[AgentBaton: Efficient Model Collaboration in Agentic Tasks](https://arxiv.org/abs/2610.35959)**
 - **[Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration](https://arxiv.org/abs/2611.22275)**
+- **[Beyond Code and Pixels: Co-Generating Editable and Visually Rich Presentations](https://arxiv.org/abs/2611.28010)**
 
 ## Multi-Agent Frameworks & Benchmarks
 
@@ -260,6 +261,7 @@
 - **[MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation](https://api.semanticscholar.org/CorpusId:274280893)**
 - **[ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise](https://api.semanticscholar.org/CorpusId:273654638)**
 - **[AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions](https://huggingface.co/papers/2602.06008)**
+- **[PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://arxiv.org/abs/2611.33144)**
 
 ## Evaluation & Model Improvement
 
